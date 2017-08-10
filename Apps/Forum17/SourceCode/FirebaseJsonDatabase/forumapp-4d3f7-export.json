@@ -1,0 +1,1739 @@
+{
+  "auction" : {
+    "-KOSce-5Mg7v3ehtzDxR" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 50,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FbatmanJakkejpg.jpg?alt=media&token=a8f7e044-3875-4801-ba3d-407ff2fde7a2",
+      "name" : "Batman jakkesæt",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KOSd2gXK3eiKHRrUqct" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 49,
+      "desc" : "Antal spillere: 2 - 4  <br>Alder: 0+  Spilletid: ca. 60 min.<br>  Tyrants of the Underdark is a territory control game with a deck-building element. Each player leads a house of Drow in a section of the Underdark below the Sword Coast.  Spillet er på engelsk.\"",
+      "donator" : "Faraos cigarer (Brætspil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSd2gXK3eiKHRrUqct%2FfaraosLogo.jpg?alt=media&token=fcca5f59-5f5d-44e9-aa37-c5f3e5eaa569",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSd2gXK3eiKHRrUqct%2Ftyrants1.JPG?alt=media&token=eedd473a-a2a9-4256-93c1-0173055f145d",
+      "name" : "Tyrants of the underdark",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 3
+    },
+    "-KOSdCCMupd3nFkjBNU-" : {
+      "bid" : 0,
+      "bidder" : "ingen",
+      "createdAt" : 48,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Brætspil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdCCMupd3nFkjBNU-%2FfaraosLogo.jpg?alt=media&token=7c16ce23-3676-43e8-b3c4-baf3f26d9522",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdCCMupd3nFkjBNU-%2Fbooks1.jpg?alt=media&token=885a9358-799d-40b6-9887-3d5c50605a91",
+      "name" : "Bogpakke 1",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KOSdEFnK7aSXnqeSBE2" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 47,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Brætspil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdEFnK7aSXnqeSBE2%2FfaraosLogo.jpg?alt=media&token=f21fb76c-dea2-4569-94ab-b981994b24bf",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdEFnK7aSXnqeSBE2%2Fbooks2.jpg?alt=media&token=bcfecdee-a71c-4dee-afe3-191e5c393920",
+      "name" : "Bogpakke 2",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 3
+    },
+    "-KOSdM3PzxKBK_F6AZ5p" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 46,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdM3PzxKBK_F6AZ5p%2FfaraosLogo.jpg?alt=media&token=4f67896e-3bff-4e1a-9006-4e32aa2b2f67",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSdM3PzxKBK_F6AZ5p%2Fcostumes1.jpg?alt=media&token=9f284252-e5ba-44aa-8a9d-b931cfbe0580",
+      "name" : "Pirat kostume og paryk",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KOSqRa7oDBpeVcYDrd7" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 45,
+      "desc" : "",
+      "donator" : "Faraos Cigarer (Brætspil)",
+      "donatorImage" : "",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSqRa7oDBpeVcYDrd7%2Fbooks3.JPG?alt=media&token=8edfc00b-ad19-4f08-9747-c1c2c013ad37",
+      "name" : "Bogpakke 3",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KOVgXN66fHZDP8nZyuj" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 44,
+      "desc" : "",
+      "donator" : "Bastard cafeen (KBH)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOVgXN66fHZDP8nZyuj%2Fbastardcafe.jpg?alt=media&token=42a1c5ed-8658-4f37-9b12-2d2b8f212d9c",
+      "donatorWebsite" : "http://bastardcafe.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOVgXN66fHZDP8nZyuj%2F7863262-bastard-caf-1.jpg?alt=media&token=db8aa10c-5c04-4a7a-8ad7-536ec80a3af4",
+      "name" : "1 års medlemskab + 500 kr. gavekort",
+      "phone" : "24793653",
+      "startBid" : 250,
+      "status" : 1
+    },
+    "-KOeh5wA78saGA8Rpk20" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 43,
+      "desc" : "",
+      "donator" : "Fantask",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOeh5wA78saGA8Rpk20%2FfantaskLogo.jpg?alt=media&token=866f2f0d-ccf6-422f-89f7-80f9c491d6eb",
+      "donatorWebsite" : "http://fantask.com",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOeh5wA78saGA8Rpk20%2FfantaskItems.jpg?alt=media&token=41a20cec-053a-4c59-9789-dfe002c6f8c4",
+      "name" : "Spilpakke",
+      "phone" : "21312313",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KOewkFv3QUFiZ6ZUasJ" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 42,
+      "desc" : "Dato tilgår ",
+      "donator" : "Lost ideas DK",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOewkFv3QUFiZ6ZUasJ%2FsunfallLogo.jpg?alt=media&token=75e2e389-e48a-4e64-8910-5ac9aaf9e7be",
+      "donatorWebsite" : "http://sunfall-metro.com",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOewkFv3QUFiZ6ZUasJ%2Fsunfall.jpg?alt=media&token=923e3388-5336-4f7f-a685-d87c704111bb",
+      "name" : "Sunfall metro 2 billet",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KOs7mMHnTtpU7Hbq3mq" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 41,
+      "desc" : "",
+      "donator" : "Genki",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs7mMHnTtpU7Hbq3mq%2FgenkiLogo.png?alt=media&token=6af989b0-a9e7-4786-adc0-0956fb0a45d5",
+      "donatorWebsite" : "http://genki.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs7mMHnTtpU7Hbq3mq%2Fgenki.jpg?alt=media&token=2244ae8d-3251-4ecb-ae02-9de0584a6fa4",
+      "name" : "2 billetter til Genki 2017",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KOs8PSoHtWAevvk33SG" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 40,
+      "desc" : "",
+      "donator" : "Geekcore",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs8PSoHtWAevvk33SG%2FPOSTS-770x472.jpg?alt=media&token=2b323fe9-2524-489a-aeef-b3a65c0496f0",
+      "donatorWebsite" : "http://geekcore.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs8PSoHtWAevvk33SG%2FPOSTS-770x472.jpg?alt=media&token=58482289-4737-4634-94f2-5f1e0a3a3b5a",
+      "name" : "2 billetter til Geekcore",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KOs8n8qs3lsvacjnK2L" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 39,
+      "desc" : "En billet til Fastaval 2017. Billetten dækker indgang, overnatning i sovesal, morgenmad + aftensmad alle dage, samt et Fastaval 2017-krus.",
+      "donator" : "Fastaval",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs8n8qs3lsvacjnK2L%2Ffastaval.png?alt=media&token=da138859-17f5-448b-bd64-dd12ab79585c",
+      "donatorWebsite" : "http://fastaval.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs8n8qs3lsvacjnK2L%2Flogo2.jpg?alt=media&token=40c80afc-6a78-43a7-a56c-2794d1e696b2",
+      "name" : "Billet til Fastaval 2017",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KOs9a0O2d-L77RSNOzS" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 38,
+      "desc" : "En billet til Fastaval 2017. Billetten dækker indgang, overnatning i sovesal, morgenmad + aftensmad alle dage, samt et Fastaval 2017-krus.",
+      "donator" : "Fastaval",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs9a0O2d-L77RSNOzS%2Ffastaval.png?alt=media&token=f14ed795-9ace-4d6a-8be2-066f566994ef",
+      "donatorWebsite" : "http://fastaval.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOs9a0O2d-L77RSNOzS%2Flogo2.jpg?alt=media&token=8d7bd800-4378-45ba-af61-2a5d93e5daa4",
+      "name" : "Billet til Fastaval 2017",
+      "phone" : "",
+      "startBid" : 0,
+      "status" : 1
+    },
+    "-KOsNePEpn6kHQwdkVhq" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 37,
+      "desc" : "",
+      "donator" : "Crossroads LARP ",
+      "donatorWebsite" : "http://crosswordslarp.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOsNePEpn6kHQwdkVhq%2Fhunger.jpg?alt=media&token=115ac15b-cce0-4f1f-862d-037e1bedca39",
+      "name" : "En billet til Hunger Royal 2",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KOtsk4wID3ROJIrJPEw" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 36,
+      "desc" : "Datoen tilgår.",
+      "donator" : "Rom og dukater 4",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOtsk4wID3ROJIrJPEw%2F14011939_10154326301667954_412370576_n.png.jpeg?alt=media&token=7f4da9f2-ff28-4064-9782-a73c5b61d4af",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOtsk4wID3ROJIrJPEw%2F14011939_10154326301667954_412370576_n.png.jpeg?alt=media&token=4b798348-ea76-48e1-a271-5164377c5111",
+      "name" : "2 billetter til Rom og dukater 4",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KOv7plbzgB7ZC0Qo9Lg" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 35,
+      "desc" : "",
+      "donator" : "Viking-con",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOv7plbzgB7ZC0Qo9Lg%2Fvikinglogo.png?alt=media&token=54a775cc-7d4b-4afc-a5b0-3d43977b1740",
+      "donatorWebsite" : "http://viking-con.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOv7plbzgB7ZC0Qo9Lg%2Fdragon_gamemaster-300x254.jpg?alt=media&token=550c0f8b-c1da-4fe7-8083-f388e9cd3052",
+      "name" : "To billetter og t-shirts til Viking-con",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KP-qMqBS75245881TeI" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 34,
+      "desc" : "Vi sætter 25 timer hver af til at lave en app, til jeres kongres, scenarie eller forening.\nLøsningen er inklusiv opsætning af administrations modul til applikationerne.\n\nUdløbsdato: 31-12-2017",
+      "donator" : "Troels, Joachim og August",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KP-qMqBS75245881TeI%2Fapp.png?alt=media&token=4892c3fe-dcea-402c-b043-63dcaa9ff27e",
+      "name" : "En app til iPhone og Android",
+      "phone" : "22997912",
+      "startBid" : 700,
+      "status" : 1
+    },
+    "-KP04niq6G3roqFhAw4r" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 33,
+      "desc" : "Viking-inspireret scenarie",
+      "donator" : "Brimir",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KP04niq6G3roqFhAw4r%2Fauction--KP04niq6G3roqFhAw4r-brimir.png?alt=media&token=8c32e9ec-ea54-4f8c-b654-5a80f7e31dca",
+      "donatorWebsite" : "http://www.tingepåøen.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KP04niq6G3roqFhAw4r%2Fauction--KP04niq6G3roqFhAw4r-tingepaaOeen.jpg?alt=media&token=0d013c19-7d40-491c-9621-9339c81cd7ae",
+      "name" : "En billet til Tinge på øen ",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KPTDRt5aFIfvKThh3Cw" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 32,
+      "desc" : "5 x Servant-billetter til Fairweather Manor 3<br>Mere info på <a target='_blank' href='http://fmlarp.com'>fmlarp.com</a>",
+      "donator" : "Rollespilsfabrikken",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTDRt5aFIfvKThh3Cw%2Frollespilsakademiet.png?alt=media&token=bc7534b9-98f9-4bcb-97a0-b10e7df03a54",
+      "donatorWebsite" : "http://rollespilsakademiet.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTDRt5aFIfvKThh3Cw%2F10633369_793666764042130_1781698790207254321_o-570x370.jpg?alt=media&token=16672a11-d0c8-462b-a3f7-6b945275f167",
+      "name" : "5 x Servant-billetter",
+      "phone" : "",
+      "startBid" : 1000,
+      "status" : 1
+    },
+    "-KPTEsZX_2ENHb0183mg" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 31,
+      "desc" : "5 x Non-Servant-billetter til Fairweather Manor 3",
+      "donator" : "Rollespilsfabrikken",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTEsZX_2ENHb0183mg%2Frollespilsakademiet.png?alt=media&token=06bceed6-6189-4aea-beb6-b4507b526919",
+      "donatorWebsite" : "http://rollespilsakademiet.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTEsZX_2ENHb0183mg%2F10633369_793666764042130_1781698790207254321_o-570x370.jpg?alt=media&token=f9cfc423-ec0c-4c13-b7da-cce4582be388",
+      "name" : "5 x Non-Servant-billetter",
+      "phone" : "",
+      "startBid" : 1500,
+      "status" : 1
+    },
+    "-KPTNzPDa04TDJht3RTM" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 30,
+      "desc" : "En pakke fyldt med en masse nice gaming loot. \nVi har et lækkert computer kabinet, nogle musemåtter, t-shirts, bordskåner og caps. \n",
+      "donator" : "Sharkgaming",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTNzPDa04TDJht3RTM%2FSharkGaming-Logo.jpg.jpg?alt=media&token=4ed3aacf-06a7-4402-8589-18ad6ae50293",
+      "donatorWebsite" : "http://sharkgaming.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPTNzPDa04TDJht3RTM%2F14018079_10210060519974588_1688107238_n.jpg?alt=media&token=8e8f32c6-4028-4f0b-a8f3-20e27de2f60e",
+      "name" : "The Shark Gaming package ",
+      "phone" : "",
+      "startBid" : 500,
+      "status" : 1
+    },
+    "-KPsoGTswaHmNJb-jEhZ" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 30,
+      "desc" : " Hannibal - Rome vs Carthage, Carcasonne Starwars og Once Upon a Time",
+      "donator" : "Østerskov efterskole",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPsoGTswaHmNJb-jEhZ%2FOsterskov.jpg?alt=media&token=d33bbbba-04ee-41e3-9f4a-365d80a165cd",
+      "donatorWebsite" : "http://osterskov.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPsoGTswaHmNJb-jEhZ%2F2016-08-23%2010.18.17.jpg?alt=media&token=739d33b7-ac81-487f-9353-111cebf7955f",
+      "name" : "Østerskov Brætspilspakke 3",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KPyFrLoqVunK_dy6peu" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 29,
+      "desc" : "",
+      "donator" : "Faraos Cigarer (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyFrLoqVunK_dy6peu%2Fauction--KOSce-5Mg7v3ehtzDxR-faraosLogo.jpg?alt=media&token=70220b7a-ab86-47bc-88d6-f7d4193837ff",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyFrLoqVunK_dy6peu%2FIMG_0322.JPG?alt=media&token=5738ac3f-de73-47cf-a2be-f4400b5c13e9",
+      "name" : "Epic Magic package Nr.1",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KPyG7mk2_0MFQHiPInG" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 28,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyG7mk2_0MFQHiPInG%2Fauction--KOSce-5Mg7v3ehtzDxR-faraosLogo.jpg?alt=media&token=1746378c-ba7c-4cb3-a674-f6dc3d68dc22",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyG7mk2_0MFQHiPInG%2FIMG_0324.JPG?alt=media&token=745e9fa7-26f4-4094-8c67-46db2d24b790",
+      "name" : "Epic Magic package Nr.2",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KPyGfLlUbcCCZoK-unl" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 27,
+      "desc" : "2 x lys sværd (Palnetoke) og Stav (Epic armory)",
+      "donator" : "Faraos cigarer (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyGfLlUbcCCZoK-unl%2Fauction--KOSce-5Mg7v3ehtzDxR-faraosLogo.jpg?alt=media&token=2e1c95cc-d4c9-4daa-a7ea-05b04b9c49aa",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyGfLlUbcCCZoK-unl%2FstarWars.jpg?alt=media&token=b1a43869-1bdb-4c7f-b918-d691032d7645",
+      "name" : "LARP package (Star wars)",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KPySvMwdEmbDkvY9v-S" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 12,
+      "desc" : " Pandemic Legacy",
+      "donator" : "Østerskov Efterskole",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPySvMwdEmbDkvY9v-S%2FOsterskov.jpg?alt=media&token=04fef705-ac16-42e4-a841-79e850a202a4",
+      "donatorWebsite" : "http://osterskov.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPySvMwdEmbDkvY9v-S%2F2016-08-23%2008.38.49.jpg?alt=media&token=74a406d0-c187-48e1-86c8-54e8f72598e6",
+      "name" : "Østerskov Brætspilspakke 1",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KPyTIz5a9eTBBt5T0KQ" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 25,
+      "desc" : "Beowulf the Legend, Beowulf the Movie og Once Upon a Time",
+      "donator" : "Østerskov efterskole",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyTIz5a9eTBBt5T0KQ%2FOsterskov.jpg?alt=media&token=2bfaced0-d8f8-400d-84f4-465c0d1a1cee",
+      "donatorWebsite" : "http://osterskov.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyTIz5a9eTBBt5T0KQ%2F2016-08-23%2008.39.31.jpg?alt=media&token=b89b3ba6-eb4d-4603-80e4-4b51554446d4",
+      "name" : "Østerskov Brætspilspakke 2",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    },
+    "-KPyUUCz5PsyZ-Emxzju" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 24,
+      "desc" : "",
+      "donator" : "Faraos Cigarer (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyUUCz5PsyZ-Emxzju%2Fauction--KOSce-5Mg7v3ehtzDxR-faraosLogo-2.jpg?alt=media&token=9a68c3e3-b32d-4546-a04d-34168277a482",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyUUCz5PsyZ-Emxzju%2FzombieMaske.jpg?alt=media&token=6f3c64ac-cc73-4adf-bd4d-5fd699a07ca2",
+      "name" : "Zombie maske ",
+      "phone" : "",
+      "startBid" : 50,
+      "status" : 1
+    },
+    "-KPyVu1OUEM6L_RPSJV_" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 23,
+      "desc" : "2 billetter til Airsofts spil til Oktober \"Kampen over klisterkanalen 2\" inkl. mad, overnatning og lånegrej hvis man ikke selv har. - se mere her: https://www.facebook.com/events/1118174388277204/",
+      "donator" : "TRoA",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyVu1OUEM6L_RPSJV_%2Ftroa.jpg?alt=media&token=cb9f050c-bd45-46ec-86e3-d70433d40858",
+      "donatorWebsite" : "https://www.facebook.com/events/1118174388277204/",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyVu1OUEM6L_RPSJV_%2FairSoft.jpg?alt=media&token=003434cc-69aa-4900-bd10-60f9f8ed8439",
+      "name" : "2 billetter til Airsoft",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KPyWs4-ySE1TkjmtURK" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 22,
+      "desc" : "Fri bar til to personer til én TRoA fest - skal bruges inden d. 31. december 2017.",
+      "donator" : "TRoA",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyWs4-ySE1TkjmtURK%2Ftroa.jpg?alt=media&token=9b87fe8e-4534-4bf3-92e3-bafc2bdd8174",
+      "donatorWebsite" : "http://troa.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyWs4-ySE1TkjmtURK%2Fdrunk.jpg?alt=media&token=95b4cac8-9c08-497e-b201-10e285838817",
+      "name" : "Fri bar til to personer til én TRoA fest ",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KPyXGuZe0eL-ecsHsWm" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 21,
+      "desc" : "Signeret \"Warhammer-porno\" af TRoAs Forkvinde (originalt produceret til Vergessen).",
+      "donator" : "TRoA",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyXGuZe0eL-ecsHsWm%2Ftroa.jpg?alt=media&token=37b5b9ab-5917-478e-a7d3-d2e5df653fba",
+      "donatorWebsite" : "http://troa.dk",
+      "endDate" : "15-09-2016 23:59",
+      "name" : "Warhammer-porno",
+      "phone" : "",
+      "startBid" : 50,
+      "status" : 1
+    },
+    "-KPyY14NnaBl7S2LUEpz" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 20,
+      "desc" : "Retten til at hænge et valgfrit billede op på en væg i TRoA indtil næste Forum. (Det med småt: Størrelse op til A3, skal være stuerent overfor børn, unge og deres forældre, køber skal selv få fremstillet/fremsendt billedet, afholdes der ikke et forum i 2017 pilles billedet ned med udgangen af December 2017).",
+      "donator" : "TRoA",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyY14NnaBl7S2LUEpz%2Ftroa.jpg?alt=media&token=5255f628-41ff-4809-966c-6869a10e42c5",
+      "donatorWebsite" : "http://troa.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPyY14NnaBl7S2LUEpz%2FpictureTroll.jpg?alt=media&token=ff6cd6b1-8a59-40f4-9755-362ad48d6209",
+      "name" : "Et valgfrit billed i TRoA´s lokaler",
+      "phone" : "",
+      "startBid" : 50,
+      "status" : 1
+    },
+    "-KQ04XdsAMhkMmbG5i3V" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 19,
+      "desc" : "Østerskov Efterskole Calimacil: Squire sværd + kølle\nØsterskov Efterskole Rollespilsskjorter: 5 x M, 3 x XXL",
+      "donator" : "Østerskov efterskole",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KPsoGTswaHmNJb-jEhZ%2FOsterskov.jpg?alt=media&token=d33bbbba-04ee-41e3-9f4a-365d80a165cd",
+      "donatorWebsite" : "http://osterskov.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ04XdsAMhkMmbG5i3V%2Fcalmasil.jpg?alt=media&token=67cc2e0a-4df2-4d57-abe6-40af96bea990",
+      "name" : "Calimacil og Rollespilsskjorter",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-KQ09Zu03qmf2AC7LOCq" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 18,
+      "desc" : "Lej hele Ulvsborg historisk Værksted i en weekend til dit næste scenarie,  i vinterperioden November til februar.",
+      "donator" : "Ulvsborg Historisk Værksted",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ09Zu03qmf2AC7LOCq%2Fulvsborg.jpg?alt=media&token=02ed923e-e1da-42a5-9e28-3acd670fdc2f",
+      "donatorWebsite" : "http://www.ulvsborg.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ09Zu03qmf2AC7LOCq%2Fulvsborg.jpg?alt=media&token=8e702f1a-1b57-47a7-9057-62880c666e18",
+      "name" : "Gratis lokation (Vinterperioden)",
+      "phone" : "",
+      "startBid" : 500,
+      "status" : 1
+    },
+    "-KQ0B7wQx-QznWgFxDCE" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 17,
+      "desc" : "De er lavet med en støbt og detaljeret pommel, en klinge af skum og latex, et tykkere lag latex på klingen for øget holdbarhed.\tType:\tMedium Sword 70-100 cm\nBrand:\tEpic Armoury\nWeight: 274 gram / 9,67 oz\nLength cm:\t85,00\nRelease date:\t20-08-2016",
+      "donator" : "Iron Fortress",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0B7wQx-QznWgFxDCE%2Fironfortress.png?alt=media&token=83c19366-0a4b-4d75-a06f-876efb1b4e87",
+      "donatorWebsite" : "http://ironfortress.com",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0B7wQx-QznWgFxDCE%2F442410_640x640-1.jpg?alt=media&token=8efd57dc-a60e-4ae4-a92c-3336b9c4228b",
+      "name" : "Rapier - 85 cm",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KQ0CT_vbVFuZgkpDhZj" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 16,
+      "desc" : "Epic Armoury’s Small Sword is a latex-hybrid double-edged sword with a detailed basket hilt. The sword is 85 cm long and has a 65 cm straight blade inspired by historical thrusting weapons. The intricate crossguard curves around the hand, protecting a 8 cm detailed grip wrapped in real leather for an authentic look.  Whether you are a noble or wealthy adventurer, this Small Sword is our highest quality gear due to its impressive durability and detail. The blade is made from closed cell foam around a fibreglass core and finished with a strong latex coating, while the handle is a polyurethane foam cast that allows for greater detail and no maintenance. This hybrid model sword will make you confident in the safety and appeal of your weapon on the battlefield.",
+      "donator" : "Iron Fortress",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0CT_vbVFuZgkpDhZj%2Fironfortress.png?alt=media&token=8fb18312-22fe-4af6-9b66-4147b7a2e465",
+      "donatorWebsite" : "http://ironfortress.com",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0CT_vbVFuZgkpDhZj%2F442411_640x640-1.jpg?alt=media&token=f4b22048-454e-4cef-85d7-2afca2a79f36",
+      "name" : "Small Sword - 85 cm",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KQ0DKcrJTEkFUtHnlkn" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 15,
+      "desc" : "Epic Armoury’s Trench Knife is a latex-hybrid single-edged knife with a detailed knuckleduster handle. The sword is 85 cm long and has a 65 cm curved blade inspired by weapons of the First World War.\n\nThe intricate crossguard curves around the hand, providing a comfortable and protective grip for each individual finger around a 11 cm handle cast and painted to look like real wood with metal embellishments.\n\nWhether you are a ruffian or gritty soldier, this Trench Knife is our highest quality gear due to its impressive durability and detail. \n\nThe blade is made from closed cell foam around a fibreglass core and finished with a strong latex coating, while the handle is a polyurethane foam cast that allows for greater detail and no maintenance.\nThis hybrid model sword will make you confident in the safety and appeal of your weapon on the battlefield.",
+      "donator" : "Iron Fortress",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0DKcrJTEkFUtHnlkn%2Fironfortress.png?alt=media&token=9f9a74c2-d3bd-45f6-a57a-a9591e49adb3",
+      "donatorWebsite" : "http://ironfortress.com",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ0DKcrJTEkFUtHnlkn%2Ftrench.jpg?alt=media&token=c00d6acf-db3e-4de4-9ecc-838c7e22afa6",
+      "name" : "Trench Knife - 85cm",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KQ1kX0cIKY3F1mZ7EEW" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 14,
+      "desc" : "d. 21-23 oktober.",
+      "donator" : "LV-Live",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ1kX0cIKY3F1mZ7EEW%2Flv.jpg?alt=media&token=f214a762-6ef3-4485-98a7-39ef9c0d549f",
+      "donatorWebsite" : "http://lvlive.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQ1kX0cIKY3F1mZ7EEW%2FlvLive.jpg?alt=media&token=9e74961e-5ea8-4084-8344-96960c967e81",
+      "name" : "To billetter til LV-Live 13",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KQGLL-7eXZEr7-742ji" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 13,
+      "desc" : "Lækkert blankvåben fra Den Sorte Ridder",
+      "donator" : "Den Sorte Ridder",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQGLL-7eXZEr7-742ji%2FLOGO-knight-small-2.jpg?alt=media&token=3bcb82bf-258b-4c26-8a44-6deb0f5b0f62",
+      "donatorWebsite" : "http://densorteridder.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQGLL-7eXZEr7-742ji%2FIMG_0341.jpg?alt=media&token=7dc6c793-f773-4c93-8b4b-928507dbcb2e",
+      "name" : "Blankvåben",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KQkGZo9-Zcm5L72DrpI" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 12,
+      "desc" : "Small korset (Epic armory)",
+      "donator" : "Fantatic",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQkGZo9-Zcm5L72DrpI%2Ffanatic.jpg?alt=media&token=f89c63f7-76a5-4f22-8f1e-4b84e00298c1",
+      "donatorWebsite" : "http://fanatic.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQkGZo9-Zcm5L72DrpI%2Fkorset.jpg?alt=media&token=22f0497f-06b4-42ad-83cd-f3b06184198b",
+      "name" : "Korset",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-KQkJ8cAEFZHB1Wr2YrZ" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 11,
+      "desc" : "",
+      "donator" : "Martin Alring",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQkJ8cAEFZHB1Wr2YrZ%2Fmartin.png?alt=media&token=101fc4c6-d55a-4052-ba3d-423badd5bdf9",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQkJ8cAEFZHB1Wr2YrZ%2Fskind.jpg?alt=media&token=ac852eaf-be49-47bb-baa0-2a00d909d6cd",
+      "name" : "Skind + mjød",
+      "phone" : "",
+      "startBid" : 250,
+      "status" : 1
+    },
+    "-KQpjSrjPjo2hmf-8zAR" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 10,
+      "desc" : "En stak forgotten realms, dragonlance, warhammer bøger.\nDe er alle på engelsk og alle paperback.\n",
+      "donator" : "Søren Emil Rosenhøj Bay",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQpjSrjPjo2hmf-8zAR%2FsorenEmail.jpg?alt=media&token=9e39511e-6a1b-4cd1-bd3a-f43fa1976de4",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQpjSrjPjo2hmf-8zAR%2Fboger.jpg?alt=media&token=0803d6d8-9388-4672-a300-f8126c11c2c8",
+      "name" : "Bogpakke 4",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KQt8Yt1IC9anFZXkUAI" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 9,
+      "desc" : "",
+      "donator" : "Black box Horsens",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQt8Yt1IC9anFZXkUAI%2FblackboxHorsens.jpg?alt=media&token=7a818d72-a328-429e-b024-c637b007c6e6",
+      "donatorWebsite" : "https://blackboxhorsens.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KQt8Yt1IC9anFZXkUAI%2FBlackbox-Horsens.jpg?alt=media&token=1f34a326-075d-4019-a0e7-9d1ee09f63c6",
+      "name" : "Billet til Black box horsens",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KRJjWhZ3slBLgxUf5TO" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 8,
+      "desc" : "Lidenskabens Pris - Niels Ole Busk\nLidenskabens Pris 2: Den Døde Pige - Niels Ole Busk\nAnton Salems Dukkehus - Nikolaj Højberg\nMicki 19:50 - Christian Reslow\nKimæren - Christian Reslow\nJeg er Frankenstein - Bjarke Schjødt Larsen\nAfsind - Martin Schjönning\nØ - Steen Langstrup\nGrufulde Mørke - Diverse\nAl Kødets Gang - A. Silvestri\nMørke Guders Tempel - Diverse\nDen Røde Tråd - Vicki Pedersen\nUdrensning - Patrick Leis\nDe Underjordiske - Thomas Strømsholt\nTwo Against Darkness - Ron Shiflet & Glynn Barrass\nDarktowne - Ran Cartwright\nMidnatsmuse - Mikkel Harris Carlsen\nSprækker - Teddy Vork\nMonstre - Mathias Clasen\nDystre Danmark 2 - Diverse\nEldritch Horrors: Dark Tales - Diverse\nPix - Diverse",
+      "donator" : "Dansk Horror Selskab",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRJjWhZ3slBLgxUf5TO%2FBogpakke%201.jpg?alt=media&token=2ad8441e-0ca0-4076-8c92-7baeb5b1f55e",
+      "name" : "Bogpakke 1 (Horror)",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KRJjpe5HMC_WRD5aoma" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 7,
+      "desc" : "Moln: Jorden Husker - Michael Kamp\nDæmonicum - Nikolaj Højberg\nKærlighedsfrugt - A. Silvestri\nVrangvendt - Christian Reslow\nMiraklets Fald - Christian Reslow\nDen X. Bog om Satan-serien:\n1: Deroute - Martin Schjönning\n2: En Sand Kunstner - Jakob Friis Andersen\n3: Kærlighedens Væsen - Aske Munk-Jørgensen\n4: Tvisten - Anika Eibe\n5: En ørn fanger ikke fluer - David Garmark\n6: Hels Rejse - Signe Fahl\n7: Ormeføde - Irene S. Rasmussen\n8: Menneskesønnen - Maya Salonin\nGrufulde Mørke - Diverse\nAl Kødets Gang - A. Silvestri\nMørke Guders Tempel - Diverse\nDen Røde Tråd - Vicki Pedersen\nUdrensning - Patrick Leis\nDe Underjordiske - Thomas Strømsholt\nTwo Against Darkness - Ron Shiflet & Glynn Barrass\nDarktowne - Ran Cartwright\nMidnatsmuse - Mikkel Harris Carlsen\nSprækker - Teddy Vork\nMonstre - Mathias Clasen\nDystre Danmark 2 - Diverse\nEldritch Horrors: Dark Tales - Diverse\nPix - Diverse",
+      "donator" : "Dansk Horror Selskab",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRJjpe5HMC_WRD5aoma%2FBogpakke%202.jpg?alt=media&token=be235566-268e-4195-a977-26b59caa6a53",
+      "name" : "Bogpakke 2 (Horror)",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KRV1L3MYSoYNfIyz8yR" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 6,
+      "desc" : "",
+      "donator" : "Gustavs Pingvinstue",
+      "donatorWebsite" : "http://",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "",
+      "name" : "Sketch i Gustavs Pingvinstue",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KRV3GZhxN-U9Wa1U7Zw" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 5,
+      "desc" : "10 x Small Koster (Lys)\n5  x XSmall kofter (Lys)\n10 x Small Koster (Mørke)\n5  x XSmall kofter (Mørke)",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV3GZhxN-U9Wa1U7Zw%2FKofter.JPG?alt=media&token=4cd0886f-5ad9-41f4-801d-28442412e30e",
+      "name" : "30 børnekofter",
+      "phone" : "",
+      "startBid" : 350,
+      "status" : 1
+    },
+    "-KRV5j8PrFWDfDy4dbI9" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 4,
+      "desc" : "2 x lækker Rævepæls. (Model medfølger ikke)",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV5j8PrFWDfDy4dbI9%2FraeveSkind.JPG?alt=media&token=4a8e424c-ff9e-4500-9bdb-4a80115a3224",
+      "name" : "2 x Rævepels ",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KRV6FHE71aAyB4-KJOw" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 3,
+      "desc" : "",
+      "donator" : "Faraos Cigarer (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV6FHE71aAyB4-KJOw%2FMinecraftBoger.JPG?alt=media&token=68086e60-b425-4e47-84dc-9e361679b3e4",
+      "name" : "2 x Minecraft bøger",
+      "phone" : "",
+      "startBid" : 50,
+      "status" : 1
+    },
+    "-KRV6_R20lLjNNCeffWN" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 2,
+      "desc" : "",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV6_R20lLjNNCeffWN%2FRustningspakke.JPG?alt=media&token=874e9b43-58da-4240-b6e6-d405725628b1",
+      "name" : "Rustnings og pilekogger (Brugt)",
+      "phone" : "",
+      "startBid" : 100,
+      "status" : 1
+    },
+    "-KRV7-mMHbOWx3nZh_qo" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 1,
+      "desc" : "Timeglas med en lille revne. Virker ellers perfekt",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV7-mMHbOWx3nZh_qo%2FTimeGlas.JPG?alt=media&token=0eeaefa2-4089-47ca-ab15-bccffde9a8f0",
+      "name" : "Epic Timepiece From Hogwarts ",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KRV7J6GHYZt0ozKkqR3" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 0,
+      "desc" : "En lækker kvinderustning med et defekt spænde.",
+      "donator" : "Faraos cigarer (Live Rollespil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KOSce-5Mg7v3ehtzDxR%2FfaraosLogo.jpg?alt=media&token=f10ce3de-1f58-4b32-98fa-28a691eb1281",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRV7J6GHYZt0ozKkqR3%2FkvindeRustning.JPG?alt=media&token=511d20ad-c28d-49c0-9281-b848ef21f233",
+      "name" : "Kvinderustning (Brugt)",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-KRiZLt3reZsNL4R8Sa7" : {
+      "bid" : 0,
+      "bidder" : "Ingen",
+      "createdAt" : 0,
+      "desc" : " Sommer på Heden, arrangeret af A New Hope,  2 billetter inkl. 1x rent-a-tent plads (plads til to sovende).  ",
+      "donator" : "A New Hope",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRiZLt3reZsNL4R8Sa7%2Fhope-logo.jpg?alt=media&token=017cf8c2-13dc-4325-84b5-dbb70048097b",
+      "donatorWebsite" : "http://anewhope.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-KRiZLt3reZsNL4R8Sa7%2Fsommer-pa-heden.jpg?alt=media&token=dd929d62-dcb0-4db5-944a-00363d51f83f",
+      "name" : "2 billetter til Sommer på Heden",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    }
+  },
+  "eventDates" : [ {
+    "date" : "16-09-2016",
+    "programItems" : {
+      "-KOW3FZRVrDy1pjfZ9t9" : {
+        "description" : "Otto Channel, som har lavet komedie TV for Fastaval i 4 år, svinger forbi Forum og viser nogle af deres bedste shows.  Aftenen står på humor og hygge hvor ingen i nørdemiljøet kan føle sig trygge.",
+        "endTime" : "00:15",
+        "headerImage" : "https://scontent-arn2-1.xx.fbcdn.net/t31.0-8/12898386_10208394745160767_4564456494932862292_o.jpg",
+        "lecturer" : {
+          "-KOW3FZRVrDy1pjfZ9t91" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KOX-vMbKTzi5hH04wgj%2Fottochannel.jpg?alt=media&token=0bd1894f-e04e-4456-a93c-90771a85d69a",
+            "name" : "Otto channel"
+          }
+        },
+        "place" : "Baren",
+        "startTime" : "23:30",
+        "status" : 0,
+        "title" : "Best of Otto Channel",
+        "type" : "2"
+      },
+      "-KQLl4bnn6pdXYylzWIb" : {
+        "description" : "Vi starter selvfølgelig Forum16 med at lære hinanden at kende.  Det gør vi rollespillere som bekendt bedst ved leg og ballade, og hvis vi er heldige bliver der også tid til lidt snak.  Åbningsworkshoppen er en halv times rysten sammen til at møde hinanden inden Forum for alvor går i gang.",
+        "endTime" : "21:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "20:30",
+        "title" : "Åbningsworkshop",
+        "type" : "1"
+      },
+      "-KQMd91wLqwcJJ2ETNen" : {
+        "description" : "",
+        "endTime" : "20:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Sportshallen",
+        "startTime" : "18:00",
+        "title" : "Aftensmad",
+        "type" : "2"
+      },
+      "-KQMgBD3wyapVIaIMdTW" : {
+        "description" : "Forums huskomiker Niels Forsberg – kendt fra Harreskoven og fra stand-up for nørder – underholder traditionen tro på Forum16 med nyt materiale fredag aften.",
+        "endTime" : "23:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQMgBD3wyapVIaIMdTW%2F13433353_10153496325832077_1614733597525547485_o-2.jpg?alt=media&token=d8de1c08-633e-456f-a6db-5e57a6529d4e",
+        "lecturer" : {
+          "-KQMgBD4j1NSMLjd12Zh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQMgBD3wyapVIaIMdTW%2F13312717_10153469453827077_6649155916859404155_n.jpg?alt=media&token=24b1e9a4-6b2a-4b6a-96ff-7c2e7c93c5c5",
+            "name" : "Niels Forsberg"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "22:30",
+        "title" : "Stand-up - Niels Forsberg",
+        "type" : "2"
+      },
+      "-KQrGNrNhKtUgDx2jZFT" : {
+        "description" : "Bussen fra København Ankommer til Forum",
+        "endTime" : "19:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "19:00",
+        "title" : "Bussen ankommer",
+        "type" : "4"
+      },
+      "-KQrI3tACHSnS77GUvK8" : {
+        "description" : "Atter et år er gået, og en masse scenarier er blevet afholdt. Hvad  gjorde dem særlige? Hvad var fedt? Og er der draget nogle erfaringer,  som kan komme vores hobby til gode?Hør en række arrangører og  spillere fortælle om deres oplevelser ved dette års scenarier. Der vil  være særligt fokus på, hvordan netop dette scenarie adskilte sig fra  andre scenarier, og hvordan det kan være inspiration til fremtidige  projekter.  Først vil der være en kort gennemgang af de praktiske  omstændigheder og derefter vil fokus være på, hvilke erfaringer, der  blev gjort.Skriv til daniel@spilrollespil.dk hvis du har noget, du gerne vil præsentere.",
+        "endTime" : "22:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQMGl0qRnc_i_e4pSDh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fdaniel.jpg?alt=media&token=243c1e54-c928-4bc4-97f2-dfb5347d0b00",
+            "name" : "Daniel Larsen"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "21:30",
+        "title" : "Scenarie året der gik",
+        "type" : "4"
+      },
+      "-KQrIvHScRuQq7sYq9w5" : {
+        "description" : "",
+        "endTime" : "02:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Baren",
+        "startTime" : "23:58",
+        "title" : "Hygge og øl",
+        "type" : "6"
+      },
+      "-KQw6n8f5G1bu1DYMMVk" : {
+        "description" : "",
+        "endTime" : "20:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "20:00",
+        "title" : "Fælles åbning",
+        "type" : "2"
+      },
+      "-KQw7eX73r8TpUak4LEV" : {
+        "description" : "",
+        "endTime" : "23:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQw7eX9e0KOE5DYX6z7" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQw7eX73r8TpUak4LEV%2F12540568_10206468557486902_5791327246982028402_n.jpg?alt=media&token=603628a7-31d7-4a8f-8db1-04fff7b07bd7",
+            "name" : "Tora De Boer"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "23:00",
+        "title" : "And then they killed my parents ",
+        "type" : "2"
+      }
+    }
+  }, {
+    "date" : "17-09-2016",
+    "programItems" : {
+      "-KQMGl0b0rAM0Yb_eXG5" : {
+        "description" : "Vær med til at skaffe penge til Bifrostpuljen og få en masse fedt loot med hjem i samme omgang.",
+        "endTime" : "23:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fforum.jpg?alt=media&token=ec34b488-fa2b-4405-a3ac-f776fc20dc21",
+        "lecturer" : {
+          "-KQMGl0gcTLMqwz5sgvy" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fjoachim.jpg?alt=media&token=2cab415f-5d0d-402f-8538-e9873ae0b630",
+            "name" : "Joachim Dittman"
+          },
+          "-KQMGl0n10aiy-4-bW3d" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fnanna.jpg?alt=media&token=36c76937-1b6f-4280-ad47-686f432bdf8e",
+            "name" : "Nanna K. Rambøl"
+          },
+          "-KQMGl0p6USXmOjecDuu" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fcille.jpg?alt=media&token=570fc69f-a888-4d02-b3d8-63a5671a5d0f",
+            "name" : "Cæcillie Olsson"
+          },
+          "-KQMGl0qRnc_i_e4pSDh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fdaniel.jpg?alt=media&token=243c1e54-c928-4bc4-97f2-dfb5347d0b00",
+            "name" : "Daniel Larsen"
+          },
+          "sdf0230f00f" : {
+            "image" : "",
+            "name" : "Lau K. Lauritzen"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "21:00",
+        "title" : "Auktionen",
+        "type" : "2"
+      },
+      "-KQMGl0b0rAM0Yb_eXG51" : {
+        "description" : "Så har vi endnu mere rollespil. Denne gang et liverollespil der søger testspillere. Tilmelding foregår i Infoen på Forum. ...And that’s it Menneskeheden er blevet udslettet af den grå pest, og nu har den sidste gruppe overlevende slået sig ned og begynder langsomt at håbe, at det er overstået, at de overlevede. Men pesten vender tilbage. De ved, nu at alt er over, det var det. Vi følger dem gennem de sidste af menneskehedens dage. Hvordan sætter du ord på tabet af dine venner, dine relationer, selv din egen nærtstående død? Det er umuligt, men gennem den simple barnlige aktivitet: tegning, kan vi komme det ene lille skridt tættere på at udtrykke og reflektere over disse tanker. Det er hvad, vi vil prøve via dette scenarie.",
+        "endTime" : "18:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQMGl0qRnc_i_e4pSDh" : {
+            "name" : "Simon Petit"
+          }
+        },
+        "place" : "Spillokale 1",
+        "startTime" : "14:00",
+        "title" : "Smuk tragedie (Live Rollespil)",
+        "type" : "2"
+      },
+      "-KQMdJq1wQvMjQhRWmPe" : {
+        "description" : "",
+        "endTime" : "10:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Sportshallen",
+        "startTime" : "08:00",
+        "title" : "Morgenmad",
+        "type" : "2"
+      },
+      "-KQMdOFuKJLUZRQiIbXP" : {
+        "description" : "",
+        "endTime" : "14:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Sportshallen",
+        "startTime" : "13:00",
+        "title" : "Frokost",
+        "type" : "2"
+      },
+      "-KQMdSlT8rjU9XO9_XUL" : {
+        "description" : "",
+        "endTime" : "20:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "19:30",
+        "title" : "Aftensmad",
+        "type" : "2"
+      },
+      "-KQrJmNJQ57vAQf1C1SI" : {
+        "description" : "Projektledelse er vel ikke nødvendigt i rollespil? Har du hørt den før? Så er det her foredrag for dig! Vi berører best practice og gode råd indenfor to centrale projektledelsesdiscipliner; opgavestyring og organisation. Deltagerne  går fra foredraget med inspiration og tanker til opbygning af  arrangørgruppe, samt selvsamme omkring styring af opgaver. Dette programpunkt er en del af Orkerne Kommers arrangørkursus, men er åbent for alle.",
+        "endTime" : "09.15",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrJmNJQ57vAQf1C1SI%2Fork.jpg?alt=media&token=61d6a536-6dc6-48ae-8e3c-9f7d9067ef2c",
+        "lecturer" : {
+          "-KQrJmNQaHc8rKSDYTVO" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrJy5kUQnQwGJa-cUf%2Fkaare.jpg?alt=media&token=c563c2eb-7dc1-4936-a6c7-270bc7cb59fa",
+            "name" : "Kåre M. Kjær"
+          }
+        },
+        "place" : "Orkerne kommer",
+        "startTime" : "08:30",
+        "title" : "Opgavestyring og organisation",
+        "type" : "6"
+      },
+      "-KQrLLR4apB12VbCJ1ay" : {
+        "description" : "Morten og Frederikke vil gerne dele viden om og diskutere, hvordan vi sikrer, at der bliver bygget bro imellem garvede og kommende arrangører, og hvordan man skaber en god og kreativ arbejdskultur i vores organisationer. Som deltager går du hjem med inspiration til, hvordan man kan sikre en  god kultur i sin organisation, som kan hjælpe med at sikre udveksling af  idéer, sparring, samarbejde og erfaringsdeling mellem arrangører og  kommende arrangører. Morten og Frederikke lægger ud med at holde et kort oplæg om  Fladlandssagaens tiltag for at oplære nye arrangører og skabe en kultur  med plads til kreativitet, bygget på ligestilling. Herefter vil der være  åben debat om oplæringskulturer.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrLLRC1HFyw_zLxsIJ" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrLLR4apB12VbCJ1ay%2Ffrederikke.jpg?alt=media&token=fc830942-08ff-41dd-aaf8-7cf645f90ae2",
+            "name" : "Frederikke Bech Høyer"
+          },
+          "-KQrLLRIwscHmQxgvSoj" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrLLR4apB12VbCJ1ay%2Fmorten.jpg?alt=media&token=545be146-a582-4e55-8f76-ee1187178eba",
+            "name" : "Morten Kjærgaard Tellefsen"
+          }
+        },
+        "place" : "Lokale 3",
+        "startTime" : "12:00",
+        "title" : "Arrangørkultur",
+        "type" : "3"
+      },
+      "-KQrLdyO9ejmZSq09EK6" : {
+        "description" : "Kom og få en introduktion til det nye indie RPG, Tales of Alethrion  RPG, som er udviklet sammen med animationsstudiet Sun Creature Studio.Der  vil blive vist en sjov animations-kortfilm som illustrerer universet,  rollespillet er sat i, efterfulgt af en kort introduktion af spillet  selv og mulighed for spørgsmål fra publikum efterfølgende.",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrLdyWXx8xrLWd2yNh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrLdyO9ejmZSq09EK6%2FandreasLund.jpg?alt=media&token=42f85604-11ba-4a28-889e-5c8c5a261ae5",
+            "name" : "Andreas Lund Andersen"
+          }
+        },
+        "place" : "Lokale 4",
+        "startTime" : "14:00",
+        "title" : "Tales of Alethrion RPG",
+        "type" : "6"
+      },
+      "-KQrMPE4qkD_kTumJMWD" : {
+        "description" : "Foredrag om grundliggende rollespilsdesign. Fokus er på bevidste og ubevidste  designvalg. Et oprids af anvendt spildesign fra forskellige scenarier og  kampagner. Deltagerne  får en grundlæggende forståelse af rollespilsdesign og klar inspiration  fra, hvordan andre arrangører har designet deres rollespil. Vi  starter med en kort snak om design og designvalg fra et generelt  perspektiv. Dernæst en gennemgang af anvendt spildesign. Til sidst råd  til selv at komme igang med at designe rollespil. Dette programpunkt er en del af Orkerne Kommers arrangørkursus, men er åbent for alle.",
+        "endTime" : "11:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrJmNJQ57vAQf1C1SI%2Fork.jpg?alt=media&token=61d6a536-6dc6-48ae-8e3c-9f7d9067ef2c",
+        "lecturer" : {
+          "-KQrMPECEU9lwH6q0Iub" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrMPE4qkD_kTumJMWD%2Fjesper.jpg?alt=media&token=3791d96d-4ccd-4696-a14f-98dee6e98080",
+            "name" : "Jesper Kristiansen"
+          },
+          "-KQrMPEIsYWeBagnr_KG" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrMPE4qkD_kTumJMWD%2Fcharles.jpg?alt=media&token=e14dbe92-3313-477a-a986-ecaba5e0b74b",
+            "name" : "Charles Bo Nielsen"
+          }
+        },
+        "place" : "Orkerne kommer",
+        "startTime" : "10:00",
+        "title" : "Intro til rollespilsteori og design",
+        "type" : "6"
+      },
+      "-KQrMoanzbB5KJ6wLz2C" : {
+        "description" : "Kåre giver en kort introduktion til historien bag Krigslive og gennemgår den  vigtigste viden, hvis man er på vej ud i at arrangere Krigslive.Målet  er at gennemgå de steder, man skal være særlig opmærksom på, når man  arrangerer Krigslive, så det bliver lettere for det næste hold  arrangører at tage bolden op.Foredraget  er relevant for alle, der synes Krigslive er spændende, eller som går  med en arrangør i maven. Også hvis du ikke lige står bag KrigsliveXIII  næste år. ",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrMoauAOUf7bOYnyxf" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrJy5kUQnQwGJa-cUf%2Fkaare.jpg?alt=media&token=c563c2eb-7dc1-4936-a6c7-270bc7cb59fa",
+            "name" : "Kåre M Kjær"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "11:00",
+        "title" : "Sådan laver du Krigslive",
+        "type" : "6"
+      },
+      "-KQrNT-UuhQ-xNrCgEQf" : {
+        "description" : "Foredraget handler om, hvordan lys kan bruges som virkemiddel i liverollespil til at skabe en mere overbevisende setting og i sidste ende mere / bedre indlevelse (immersion).  Carina har skrevet speciale om anvendelsen af lys i rollespil.  Deltagerne skulle gerne ende med en værktøjskasse, der vil gøre det nemmere for dem at bruge lys aktivt, når de designer rollespil.  Deltagerne må meget gerne stille spørgsmål undervejs, og foredraget indeholder  korte samtaler om deltagernes oplevelser tidligere.",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrNT-b4HTm6dGAQcmy" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrNT-UuhQ-xNrCgEQf%2Fcarina.jpg?alt=media&token=c8c2b6a9-a873-4a84-af66-0a960340e32e",
+            "name" : "Carina Tinnesen"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "11:00",
+        "title" : "Lys som virkemiddel",
+        "type" : "6"
+      },
+      "-KQrNk5rAPXnc6xVxY9-" : {
+        "description" : "Morten kommer og fortæller om, hvad airsoft er for en størrelse, og  hvad der sker rundt omkring i Danmark og i resten af verdenen på den  front.Kom og få svar på spørgsmål som 'hvad er airsoft?', 'gør det ikke vildt ondt?', og 'hvad har det at gøre med rollespil?'.",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrNk5zRHEbJ2kRZOe2" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrNk5rAPXnc6xVxY9-%2FMortenBa.jpg?alt=media&token=70e1efa5-83b3-44e5-91d1-636dc4dc2f73",
+            "name" : "Morten Baagøe"
+          }
+        },
+        "place" : "Hack that space",
+        "startTime" : "11:00",
+        "title" : "Airsoft, Hardball og Softguns",
+        "type" : "6"
+      },
+      "-KQrNu0mjIryz9FP8Jng" : {
+        "description" : "Workshoppen udforsker og diskuterer, hvad vi som arrangører kan forvente  af gode deltagere, og hvad vi som deltagere kan forvente af den gode  arrangør. I fællesskab kommer vi frem til nogle kernepunkter ift.  gensidige forventninger mellem spillere og arrangører. Punkterne skal  danne udgangspunkt for en videre debat af emnet. Workshoppen består af  en masse små øvelser og strukturerede diskussioner. Du skal have lyst  til at deltage aktivt og bidrage med dine egne erfaringer.",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrNu0uqThGlusC2BGS" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrNu0mjIryz9FP8Jng%2Fnynne.jpg?alt=media&token=f94c4c1f-d556-4e3d-872e-ec4d13d2e140",
+            "name" : "Nynne Søs Rasmussen"
+          }
+        },
+        "place" : "Lokale 4",
+        "startTime" : "11:00",
+        "title" : "Den gode arrangør og den gode spiller",
+        "type" : "1"
+      },
+      "-KQrOVV3ftv9gmatsVAd" : {
+        "description" : "Den prisvindende fotojournalist og rollespiller, Louise Koustrup, fra  Jysk Fynske Medier giver et indblik i, hvordan du får dit rollespil  dækket i pressen, og hvorfor det er en god idé.Som deltager  kommer du tæt på det journalistiske arbejde i forhold til rollespil, og  du lærer, hvordan du skal få kontakt til pressen og få dem til at dække  dit rollespil. Foredraget er en kombination af gennemgange af, hvordan  du praktisk arbejder med pressen og visuelle eksempler på, hvad det kan  munde ud i. Deltagerne skal ikke at forberede sig eller medbringe noget.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrOVVAHIqvbxshnlqL" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrOVV3ftv9gmatsVAd%2FjeppeHamming.jpg?alt=media&token=688450ca-f1ea-4121-9a90-3199b218b132",
+            "name" : "Jeppe Bergman Hamming"
+          },
+          "-KQrOVVCpffI_qqVmZ48" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrOVV3ftv9gmatsVAd%2FlouseK.jpg?alt=media&token=c3282935-4a05-4873-ab87-ad2c7c8a7e6a",
+            "name" : "Louise Koustrup"
+          }
+        },
+        "place" : "Lokale 1",
+        "startTime" : "12:00",
+        "title" : "Sådan kommer dit Rollespil i Medierne",
+        "type" : "6"
+      },
+      "-KQrObfsKpCc6IqWpiSP" : {
+        "description" : "Kom  og hør om hvad der bl.a. sker i live-miljøet på Fyn, når tovholderen på  arrangørgruppen Crossroadlarp fortæller om deres tidligere scenarier og  visioner for fremtidige vilde projekter.Bliv klogere på hvem arrangørgruppen er, hvad de laver, og hvad du i fremtiden kan støde på af live på Fyn.Foredraget kræver ingen forberedelse. og der er masser af plads til spørgsmål til gruppen og projekterne.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrObfxaUZBxBe7avQX" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : " Stine Duch"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "12:00",
+        "title" : "Crossroadslarp",
+        "type" : "6"
+      },
+      "-KQrOqiGVPyLJHO1CL-0" : {
+        "description" : "TRoAs hardballfolk opstiller en bane, hvor du kan få mulighed for at prøve at skyde med forskellige airsoft våben. Så kom og find din indre soldat frem og hav de sjovt med en ny form for kamp.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrOqiQS-WMg_8PxSEA" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : " Morten Baagøe"
+          }
+        },
+        "place" : "Skolegården",
+        "startTime" : "12:00",
+        "title" : "Airsoft skydebane ",
+        "type" : "1"
+      },
+      "-KQrPIwN28dze_znxJOR" : {
+        "description" : "",
+        "endTime" : "14:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrPIwXj-bblEruVqL8" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrPIwN28dze_znxJOR%2Fluca.jpg?alt=media&token=49ac4132-f8d8-4fba-adc9-84d515f4a4d0",
+            "name" : " Luca Jonathan Saverio Pristed"
+          }
+        },
+        "place" : "Baren",
+        "startTime" : "13:00",
+        "title" : "Lunch Beat",
+        "type" : "2"
+      },
+      "-KQrPy8ga92CmT6Irh4i" : {
+        "description" : "",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrPy8nPbtJspPggUJv" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrPy8ga92CmT6Irh4i%2Foliver.jpg?alt=media&token=3b0d29dc-9392-4d61-bab4-802c8da45e76",
+            "name" : "Oliver Nøglebæk"
+          }
+        },
+        "place" : "Orkerne Kommer",
+        "startTime" : "12:30",
+        "title" : "Scenografi og rumdesign",
+        "type" : "6"
+      },
+      "-KQrQag9aqa_Z6g5vCef" : {
+        "description" : "Tre danske rollespilsdesignere giver deres bud på udfordringer og  muligheder for teknikkens indtog i rollespilsscenarier af forskellig  karakter, og for hvordan den kan bruges til at udvikle rollespil. Rasmus, Troels og Niels vil hver især holde et kort oplæg, hvor  brugen af teknik er hovedfokus, og de vil blandt andet komme ind på,  hvilke udfordringer det giver for indlevelsen og på, hvordan man kan  bruge lys og lyd som virkemidler til et stort sommerscenarie. Som deltager går du hjem med gode ideer, nye perspektiver og et blik  på nuværende tendenser fra tre af de rollespillere, der arbejde meget  med teknik på forskellige måder, og du får forhåbentlig også svar på  nogle af dine spørgsmål om, hvad man kan bruge tekniske løsninger til.",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrQagG5wb6es0ZqrmZ" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrQag9aqa_Z6g5vCef%2FrasmusT.jpg?alt=media&token=c12c3093-83e8-4abf-a1b8-d9fe2c89290f",
+            "name" : " Rasmus Teilmann"
+          },
+          "-KQrQagMA7ot-yfgS6JF" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrQag9aqa_Z6g5vCef%2FnielsH.jpg?alt=media&token=8907dad3-0a56-4662-8b63-7b78b5996412",
+            "name" : "Niels Helmersøn Sangill"
+          },
+          "-KQrQagR3OVqT7Hj-TOV" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrQag9aqa_Z6g5vCef%2Ftroels.jpg?alt=media&token=5427a45a-d20f-4972-8bc9-9eae71c11e87",
+            "name" : "Troels Thylstrup"
+          }
+        },
+        "place" : "Lokale 1",
+        "startTime" : "14:00",
+        "title" : "Teknikkens muligheder og udfordringer i fremtiden",
+        "type" : "5"
+      },
+      "-KQrSN1vE3Ai_vnvk1YC" : {
+        "description" : "Debatten tager udgangspunkt i vores håndtering af den sociale  interaktion rollespil er, og som vi har tendens til at lade præge os  efter spillet - også med negative fortegn. Er vi ansvaret bevidst?Målet  er at gøre deltagerne mere bevidste om den sociale kultur, vi selv  udvikler. Dertil kan debatten lede til et indblik i vores sociale  mønstre over for hinanden, og præge vores fremtidige ageren.Ida  vil begynde debatten med at give et kort oplæg, hvor hun nærmere  definerer social bleed. Derefter stiller hun spørgsmål til grundlaget  for fænomenet og til hvor vidt vi kan gøre noget anderledes. Derefter er  der fri debat om emnet.",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrSN23sMHKYr6Wk6TS" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrSN1vE3Ai_vnvk1YC%2Fida.jpg?alt=media&token=03670944-af23-47bf-ab32-ee389f5e3845",
+            "name" : "Ida Farver"
+          }
+        },
+        "place" : "Lokale 3",
+        "startTime" : "14:00",
+        "title" : "Social Bleed",
+        "type" : "3"
+      },
+      "-KQrSZwmQ7n7l18VPypq" : {
+        "description" : "",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrJmNJQ57vAQf1C1SI%2Fork.jpg?alt=media&token=61d6a536-6dc6-48ae-8e3c-9f7d9067ef2c",
+        "lecturer" : {
+          "-KQrSZwurWCpSgKDAKPu" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrSZwmQ7n7l18VPypq%2Fnikolai.jpg?alt=media&token=78fd04ff-b9b0-43ce-8365-9b02d184b8fb",
+            "name" : "Nikolai Elmer Sheldon"
+          }
+        },
+        "place" : "Orkerne Kommer",
+        "startTime" : "14:30",
+        "title" : "Økonomi og budget",
+        "type" : "1"
+      },
+      "-KQrSs8EEkIo6BzQhH5x" : {
+        "description" : "Din organisation er større end du tror dette udtaler tidligere  Bifrost formand Anders Berner, som vil fortælle folket, at deres  foreninger laver mange flere aktiviteter og favner bredere, end de lige  går og tror.Kom og få en større forståelse af, hvad foreningerne i  Danmark egentlig laver og et bedre grundlag til at udfylde DUF  ansøgningen, så både du, din forening og resten af rollespilsdanmark kan  få større glæde af tipsmillionerne.",
+        "endTime" : "16:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrSs8Jbab3W9_3si--" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrSs8EEkIo6BzQhH5x%2Frene.jpg?alt=media&token=5292987d-9da6-4f95-af44-7b60522d18f0",
+            "name" : " Rene Bokær Pedersen"
+          },
+          "-KQrSs8QzByhQvTyV-nr" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrSs8EEkIo6BzQhH5x%2FandersB.jpg?alt=media&token=6f4218fb-2da6-400b-b71e-3f5aea32e500",
+            "name" : "Anders Berner"
+          }
+        },
+        "place" : "Lokale 4",
+        "startTime" : "15:00",
+        "title" : "Din organisation er større end du tror",
+        "type" : "6"
+      },
+      "-KQrT5OkljHz78h7q3Hq" : {
+        "description" : "Romantik og kærlighed er kernen til fedt rollespil. Vi vil prøve at  gøre det nemmere for alle at spille den slags, give nogle helt konkrete  råd og dele ud af vores erfaringer med romantik i rollespil.Tips,  tricks og sjove historier. Du får nogle helt konkrete råd til at gøre  kærlighed mere spilbart og sjovere for alle parter. I får et par  redskaber og øvelser til at forberede jer før et scenarie.Tag  hånden på hjertet og hiv en ven med ind, det skal nok både blive både  sjovt og pinagtigt (Mest for os der fortæller). Vi åbner op og deler ud.",
+        "endTime" : "16:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrT5OqNRyWJKVA8CuZ" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrMPE4qkD_kTumJMWD%2Fcharles.jpg?alt=media&token=e14dbe92-3313-477a-a986-ecaba5e0b74b",
+            "name" : " Charles Bo Nielsen"
+          },
+          "-KQrT5OsICNPGf4PVjsN" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrT5OkljHz78h7q3Hq%2FmariaB.jpg?alt=media&token=22cf234a-8378-488c-b8ec-c90a5a31e13b",
+            "name" : " Maria"
+          },
+          "-KQrT5OuU6ZDntFi8eKr" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrT5OkljHz78h7q3Hq%2FjeppeH.jpeg?alt=media&token=083a7e13-1d5b-4690-8733-76c50c1c05dd",
+            "name" : "Jeppe Bergmann Hamming"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "15:00",
+        "title" : "Kærlighed til alle",
+        "type" : "5"
+      },
+      "-KQrTDgae5HpBceP8sbd" : {
+        "description" : "En europæer tager til USA for at spille rollespil. Hvilke fordomme  eller forudindtagede idéer blev be- eller afkræftet? Og hvordan er  Nordic Larp anderledes på den anden side af Atlanten?Kom og få et  billede af den amerikanske version af Nordic Larp og en idé om,  hvorvidt amerikansk Larp er noget, du kunne være interesseret i at  deltage i.  Så kom til debat om definitioner på Nordic larp i USA og herhjemme.Oplægget er en blanding af en fortælling med dertil hørende spørgsmål og debat om emnet.",
+        "endTime" : "16:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrTDggvf_QZNiPFTg9" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTDgae5HpBceP8sbd%2Fbuch.png?alt=media&token=a2377a8f-8062-45aa-a301-ea815d5e771f",
+            "name" : "Martin Buhl"
+          }
+        },
+        "place" : "Lokale 3",
+        "startTime" : "15:00",
+        "title" : "Europæisk larp i USA",
+        "type" : "6"
+      },
+      "-KQrTSkOVWtqLivB4KT4" : {
+        "description" : "Det er… Farligt, svært, dyrt eller ligefrem ulovligt når I skal lave kulisser som kan noget spilmekanisk. I dette oplæg vil vi gennemgå mulighederne for at lave fede kulisser, som kan bidrage til mekanikken i spillet.  Deltagerne får inspiration til hvilke kulisser, man kan lave, og som kan have en aktiv funktion i spillet eller understøtte andre spilmekanikker, samt hvordan man gør det lovligt, sikkert og nemt.  Der vil være kulisser til stede, som man kan prøve, og se virke i praksis.  Og så vil vi gennemgå et par kulisseidéer, deltagerne bidrager med og prøve at vække den til live.",
+        "endTime" : "16:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrTSkU-_ldLr2aX1h2" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTSkOVWtqLivB4KT4%2FnielsH.jpg?alt=media&token=26047dbf-508a-49bc-9043-4f8efeabe56e",
+            "name" : "Niels Helmersøn Sangill"
+          }
+        },
+        "place" : "Kælderen",
+        "startTime" : "15:00",
+        "title" : "Spilmekaniske Kulisser",
+        "type" : "6"
+      },
+      "-KQrTvKc50qUJFBNvQb5" : {
+        "description" : "Hvorfor er så mange live scenarier blevet aflyst indenfor de seneste  par år? Og hvad kan vi gøre bedre som arrangører for at få flere  spillere op af stolene?Først vil der være oplæg til inspiration,  hvor du blandt andet vil høre om den undersøgelse, der lige er blevet  lavet om aflyste scenarier. Herefter er du inviteret til at deltage i  debatten om, hvad der kan gøres for at undgå at scenarier må aflyses i  fremtiden",
+        "endTime" : "18:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrTvKie0vqTFhyR325" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : " Stine Duch"
+          },
+          "-KQrTvKnAFFzzXoXjPpg" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Joachim Dittman"
+          },
+          "-KQrTvKpNksdgkMZ3To1" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FCecilien.jpg?alt=media&token=11533e96-0a23-40da-98f0-6906de943473",
+            "name" : "Cecilie Nemeth"
+          }
+        },
+        "place" : "Lokale 1",
+        "startTime" : "16:00",
+        "title" : "Hvor blev mine spillere af?",
+        "type" : "1"
+      },
+      "-KQrU5nKD4ryT1jHb4Gq" : {
+        "description" : "\"Vi  skal have testet vores kampregler til Krigslives nye lillebror/søster  \"Skirmish Live\". Et gamistisk rollespil inspireret af Mordheim. Du  får mulighed for at gi den gas med latexvåben, men også bidrage til  udviklingen af et bedre regelsæt. Din oplevelse og kritik efterfølgende  vil være til stor hjælp.Først  vil vi kort beskrive reglerne og scenariet. Dernæst er det slåstid. Vi  tester forskellige scenarier og spilmekanismer. Vi stiller våben til  rådighed. Kostume er ikke vigtigt.Workshoppen varer to blokke (1 time og 45 minutter)\"",
+        "endTime" : "18:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrU5nO50byV_9suMB0" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrU5nKD4ryT1jHb4Gq%2FbenjaminBalle.jpg?alt=media&token=a4e3e068-7525-4890-ad39-3d2b84eb90c0",
+            "name" : "Benjamin Balle"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "16:00",
+        "title" : "Test af Skirmish-regler",
+        "type" : "1"
+      },
+      "-KQrUDattnpMdFsb_oZU" : {
+        "description" : "",
+        "endTime" : "18:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrUDawAKP_k9x3466X" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrQag9aqa_Z6g5vCef%2FrasmusT.jpg?alt=media&token=c12c3093-83e8-4abf-a1b8-d9fe2c89290f",
+            "name" : "Rasmus Teilmann"
+          }
+        },
+        "place" : "Blackboxen",
+        "startTime" : "16:00",
+        "title" : "Blackboxens tekniske muligheder",
+        "type" : "1"
+      },
+      "-KQrUdP5oofMisSlkeLH" : {
+        "description" : "Deltagerne til dit arrangement kræver alt muligt.  Arrangørerne kan sjældent klare det hele selv – men med god planlægning,  et godt greb om praktisk event-afvikling og gode hjælpere skal det nok  gå. Du lærer at sørge for at ingen arrangører får stress, bliver uvenner eller  kommer i søvnunderskud, når du arrangerer scenarier, con’er eller  fester. Daniel og Troels giver gode råd til, hvordan du sørger for logistikken til dit arrangement, planlægger dig ud af spontane problemer på forhånd og får mest muligt ud af dine hjælpere. Dette programpunkt er en del af Orkerne Kommers arrangørkursus, men er åbent for alle.",
+        "endTime" : "18:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrUdPCAcaxYyma-sVU" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQMUHkfYstV5zWOBV83%2F12747490_10153897032231505_4861465662158680409_o.jpg?alt=media&token=4839c147-1709-4abf-afe7-261f7d0a6674",
+            "name" : " Daniel Larsen"
+          },
+          "-KQrUdPEplwjfsNKH_Qh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrUdP5oofMisSlkeLH%2FtroelsBS.jpg?alt=media&token=45f065ab-3d33-421c-a6e0-7e3fa60431ab",
+            "name" : " Troels Barkholt"
+          }
+        },
+        "place" : "Orkerne Kommer",
+        "startTime" : "16:00",
+        "title" : "Logistik, Afviklingsplan og hjælper håndtering",
+        "type" : "6"
+      },
+      "-KQrUnuKvcNavYBl4Y9-" : {
+        "description" : "For anden gang afholder Bifrosts generalsekretær en sjov og lærerig snak om, hvordan og hvorfor man skal bruge medlemsblanketter. Efter foredraget skulle alle deltagere gerne have en bedre ide og en præcis formel til, hvordan man bedst arbejder med medlemsblanketter.",
+        "endTime" : "18:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrUnuOgBCjwkD0lJX0" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrSs8EEkIo6BzQhH5x%2Frene.jpg?alt=media&token=5292987d-9da6-4f95-af44-7b60522d18f0",
+            "name" : "Rene Bokær Pedersen"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "18:00",
+        "title" : "Medlemsblanketter",
+        "type" : "6"
+      },
+      "-KQrUwxMgBIjXv-WfDHq" : {
+        "description" : "Kom og find energien og prøv forskellige energizers af, og få  inspiration til, hvordan du selv kan bruge dem til dine egne  arrangementer. ",
+        "endTime" : "18.30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrUwxRwH0Q8ffrHKU3" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fklara.jpg?alt=media&token=a86a537e-e879-4043-94e4-e236a7605696",
+            "name" : "Klara Rotvig"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "18:00",
+        "title" : "Energizer Workshop",
+        "type" : "1"
+      },
+      "-KQrV4YrUk5aSbBjyymh" : {
+        "description" : "Det  er ikke nok at lave et spændende rollespilsscenarie. Det skal også  sælges. Claus giver en serie tips og trick til hjemmesider, PR og  kommunikation.Deltagerne går fra foredraget med basal viden o,m hvordan man laver hjemmesider, og hvordan man kommunikerer sit scenarie.Formen er foredrag med masser af deltagerinvolvering. Der kommer til at indgå praktiske øvelser og tests. Og sjov. Dette programpunkt er en del af Orkerne Kommers arrangørkursus, men er åbent for alle.",
+        "endTime" : "18:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrV4YvgxeG9QqeT0r_" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrV4YrUk5aSbBjyymh%2FclausR.jpg?alt=media&token=5d439927-7a6e-43f4-848d-230c61b0f463",
+            "name" : "Claus Raasted"
+          }
+        },
+        "place" : "Orkerne kommer",
+        "startTime" : "18:00",
+        "title" : "Kommunikation, PR og Hjemmeside",
+        "type" : "1"
+      },
+      "-KQrVQlZGF1PoWz27uxy" : {
+        "description" : "T9A forsøger at samle op på fantasy wargaming miljøet med et  communityproject der genererer regler, baggrund, turneringer og en  platform for at møde andre spillere. Få indblik i historien bag.Kom  både hvis du gerne vil se en ny måde at bruge dine miniaturefigurer på,  eller hvis du gerne bare vil have indblik i, hvordan et stort  internationalt frivilligt projekt organiserer sig selv.Ingen  forberedelse er nødvendig, men der vil blive lagt tekst op omkring  organisationsstruktur og nogle eksempler på, hvad der er blevet  produceret.",
+        "endTime" : "19:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrVQlf2sEe3a5MPPgh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrVQlZGF1PoWz27uxy%2FtroelsP.png?alt=media&token=e33eba9c-f506-4164-ab6f-1f965d16a0f8",
+            "name" : "Troels Palm"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "18:30",
+        "title" : "The 9th Age - en ny måde at lege med dukker",
+        "type" : "6"
+      },
+      "-KQrVhhqRnZ8Ql7rfn1t" : {
+        "description" : "Dit scenarie en mulighed for at se hvor på spilområdet, dine deltagere  befinder sig i ægte Hunger Games stil, en app til jeres kongres eller  lys og lyd i en black box eller et whiteroom?Så kom og hør mere om hvilke tech løsninger, der er mulige for dit event.Vi  gennemgår en masse forskellige eksempler på tekniske løsninger, der er  blevet brugt til forskellige rollespilsevents og hvilke nye teknologier,  der kan hjælpe arrangørerne til at optimere deltagerne oplevelser.",
+        "endTime" : "19:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrVhhwgt_M5cu7VbNg" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fjoachim.jpg?alt=media&token=2cab415f-5d0d-402f-8538-e9873ae0b630",
+            "name" : "Joachim Dittman"
+          },
+          "-KQrVhhzEKDHB1Kc5LWE" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQrQag9aqa_Z6g5vCef%2Ftroels.jpg?alt=media&token=5427a45a-d20f-4972-8bc9-9eae71c11e87",
+            "name" : "Troels Tylstrup"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "18.30",
+        "title" : "Tech Talk",
+        "type" : "6"
+      },
+      "-KQrVro8CGV1zioFtXkS" : {
+        "description" : "Hvordan hyper man sit scenarie og får flere deltagere? Kom og vær med  til at finde frem til, hvordan scenarier bedst kan hypes, og hvordan PR  kan bruges. Gamle ideer vendes og drejes og nye udvikles ved fælles  hjælp.Workshoppen kommer til at foregå med brainstorms i grupper  og efterfølgende præsentationer og diskussion. Medbring dine egne  erfaringer som både spiller og arrangør og dine tanker og idéer til,  hvad der kunne virke.",
+        "endTime" : "19:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrVroBrfB4u8u_V72D" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Stine Duch"
+          }
+        },
+        "place" : "Lokale 3",
+        "startTime" : "18:30",
+        "title" : "Hype dit scenarie",
+        "type" : "1"
+      },
+      "-KQrW9vSFMANscQu99Tz" : {
+        "description" : "Hvordan bruger du den symbolik som ligger i tøj, props og farver? Denne  workshop handler om at finde de rigtige genstande og bruge dem på den  rigtige måde, som en sjov og nem måde at spille en karakter på.Du  skulle gerne få en masse ideer til, hvordan du nemt kan signalere  hvilken type karakter du spiller, og lære hvordan selv almindelige  hverdagsgenstande kan være spilskabende. Først  tager vi en ultra kort gennemgang af den symbolik, som findes i kendte  hverdagsobjekter og beklædning, og derefter workshopper vi i fælleskab  et utal af sjove karakterer ved hjælp af props og kostumer. ",
+        "endTime" : "19:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrW9v_EXZu35FElORD" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrW9vSFMANscQu99Tz%2FAnnEriksen.jpg?alt=media&token=3f964ec3-8557-4386-94b1-df9377dd1655",
+            "name" : "Ann Eriksen"
+          }
+        },
+        "place" : "Lokale 2",
+        "startTime" : "18:30",
+        "title" : "Et kig i kostumekassen",
+        "type" : "1"
+      },
+      "-KQrWvcOl4YQIr0jBuZf" : {
+        "description" : "",
+        "endTime" : "04:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrWvcOl4YQIr0jBuZf%2Fparty-venue-wicklow.jpg?alt=media&token=9c5d7ab7-d02a-4874-a178-efb32c12c29f",
+        "place" : "Baren",
+        "startTime" : "23:30",
+        "title" : "Fest og hygge",
+        "type" : "6"
+      },
+      "-KQw9CRmvIfLhhgaauK2" : {
+        "description" : "",
+        "endTime" : "10.45",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQw9CRnwqotLxlOi7Jp" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQw9CRmvIfLhhgaauK2%2Fcharles.jpg?alt=media&token=bb6b3f4b-74ee-402a-92be-6ff27d21bf75",
+            "name" : "Charles Bo Nielsen"
+          },
+          "-KQw9CRppKT42JUwjR8j" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQw9CRmvIfLhhgaauK2%2Fjesper.jpg?alt=media&token=2e75e7de-4031-4752-9c0f-eebda8e18a7d",
+            "name" : "Jesper Kristiansen"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "10:00",
+        "title" : "Intro til rollespilsteori og design",
+        "type" : "6"
+      },
+      "-KQw9ug_jSN9KTz2Zbdf" : {
+        "description" : "Workshoppen er for dig, der gerne vil have input til at indhente midler til et (konkret) projekt. Se talen, Kort Sagt: \\\"Bytte-bytte-købmand\\\" -af Nanna Rambøl,  find et projekt, du gerne vil arbejde med og mød op. Med udgangspunkt i  de værktøjer, hun nævner i Kort Sagt talen, vil Nanna gennemgå  mulighederne for at indhente sponsorater i jeres lokalområder og til  jeres konkrete projekter.Som deltager med et konkret projekt får  du nye værktøjer med hjem, så din sponsoratjagt bliver mere målrettet og  effektiv. Der vil blive drøftet nye indgangsvinkler og potentielle  faldgruber, så du er klar til at sætte jagten ind.",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQw9uga6isl63IW8Vr8" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQw9ug_jSN9KTz2Zbdf%2FnannaK.jpg?alt=media&token=d01161fd-805c-428e-bc95-21367d18a4a1",
+            "name" : "Nanna Kretzschmar"
+          }
+        },
+        "place" : "Lokale 3",
+        "startTime" : "11:00",
+        "title" : "Bytte Bytte Købmand",
+        "type" : "1"
+      }
+    }
+  }, {
+    "date" : "18-09-2016",
+    "programItems" : {
+      "-KQMUHkfYstV5zWOBV83" : {
+        "description" : "Kom og hør om, hvilke scenarier, du skal glæde dig til i løbet af det næste års tid – Og hvorfor, du skal glæde dig!  Alle er velkomne til at komme og lave en fem-minutters præsentation af deres scenarie og forhåbentlig få overbevist en masse deltage om, at de skal komme og deltage.  Skriv til daniel@spilrollespil.dk, hvis dit scenarie skal præsenteres på Forum16",
+        "endTime" : "12:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQMUHkfYstV5zWOBV83%2Fcoming-soon-1568623_960_720.jpg?alt=media&token=f9934366-c3bc-449b-812d-cc2b1e12d550",
+        "lecturer" : {
+          "-KQMUHki3GqW4KtwUeBh" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQMUHkfYstV5zWOBV83%2F12747490_10153897032231505_4861465662158680409_o.jpg?alt=media&token=4839c147-1709-4abf-afe7-261f7d0a6674",
+            "name" : "Daniel Larsen"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "11:00",
+        "title" : "Scenarieåret der kommer",
+        "type" : "4"
+      },
+      "-KQMUwMLU-EcDWQJ9OsI" : {
+        "description" : "Kom og nyd dine tømmermænd med en god gang Magic the Gathering Draft.3 boosters pr. deltager og promokort som præmier. Kort der draftes kan beholdes efter eventet.Pris 50,- kr",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQMUwMMwWY-Ib3pClrZ" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQMUwMLU-EcDWQJ9OsI%2F318136_3510676322279_1407886415_n.jpg?alt=media&token=494fbd67-981c-4ff4-bad3-90895dedd1ad",
+            "name" : "Uffe Jensen"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "11:00",
+        "title" : "Tømmermandsdraft",
+        "type" : "2"
+      },
+      "-KQMdwntO8Ann_SIS_q-" : {
+        "description" : "",
+        "endTime" : "10:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqc" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Hallen",
+        "startTime" : "09:00",
+        "title" : "Morgenmad",
+        "type" : "1"
+      },
+      "-KQrXIlpuji9fiYl1077" : {
+        "description" : "Fra polske troldfolk til svenske kostskoler har brugen af et socialt  netværk gjort vidundere for rollespillere fra hele verden.  Thomas fortæller om de erfaringer, der er gjort, hvad hele fidusen er,  hvad du kan bruge det til, og hvad fremtiden bringer.",
+        "endTime" : "11:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQrXIlvhYTnoFo1oKH2" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQrXIlpuji9fiYl1077%2FThomasM.jpg?alt=media&token=19e3ced8-78ed-4fed-b7dc-512a9eb7de5b",
+            "name" : "Thomas Mertz"
+          }
+        },
+        "place" : "Lokale 1",
+        "startTime" : "10:00",
+        "title" : "Fake Facebook",
+        "type" : "6"
+      },
+      "-KQrYCX6SAy8JoakbMcR" : {
+        "description" : "",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqc" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Sportshallen",
+        "startTime" : "12:00",
+        "title" : "Frokost",
+        "type" : "2"
+      },
+      "-KQrYXwliL0y-6xLT1P9" : {
+        "description" : "",
+        "endTime" : "14:45",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqc" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "13:00",
+        "title" : "Oprydning",
+        "type" : "2"
+      },
+      "-KQrYeZ0C5kECOVxxu-Z" : {
+        "description" : "",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqc" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Fællessalen",
+        "startTime" : "14:45",
+        "title" : "Fælles afslutning",
+        "type" : "1"
+      },
+      "-KQrYnYnrJu4KBKJ9LPv" : {
+        "description" : "",
+        "endTime" : "15:05",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqc" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Forum"
+          }
+        },
+        "place" : "Bussen",
+        "startTime" : "15:00",
+        "title" : "Bus til København kører",
+        "type" : "2"
+      },
+      "-KQwDO4CYb9Z752DduGI" : {
+        "description" : "Illusionen kan gøres mere troværdig på mange måder. Ud over røg og  larm bruges kemi sjældent som effekt i rollespil - det rettes der op på  nu.Som deltager får du indblik i en række simple, overraskende  kemiske tricks, der virker, og som kan bruges i flere situationer -  skjulte farver, overraskende reaktioner og løsninger til \\\"gåder\\\".   Anders vil demonstrere en række forsøg,  der kan tages med hjem, og så  vil der være snak om hvor og hvordan de kan bruges.",
+        "endTime" : "11:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KQwDO4CYb9Z752DduGJ" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Anders Würz"
+          }
+        },
+        "place" : "Fysiklokalet i kælderen",
+        "startTime" : "10:00",
+        "title" : "Showkemi: Kemikerens bidrag ",
+        "type" : "6"
+      },
+      "-KRJi1mSCbKErIHkEVq1" : {
+        "description" : "Igen i år vil det famøse DM i Rollespilskamp blive afholdt på Forum. Så hvis du har lyst til at kæmpe om trofæet og kunne bryste dig af at være Danmarks bedste rollespilskæmper, så er det nu, du skal finde to af dine venner (eller fjender) og stille et hold.\n\nVåben udleveres på Forum16, men medbring gerne dit bedste kampkostume og et heppekor.\n\nTilmeldingen finder sted i Infoen på selve Forum16, så hvis du ikke har nogen at stille et hold med nu, så har du hele Forum16 til at finde to nye venner at kæmpe side om side med.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "lecturer" : {
+          "-KRJi1mXylfaTHlFRPLW" : {
+            "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrTvKc50qUJFBNvQb5%2FstineD.jpg?alt=media&token=9cd02d09-6f2b-4e8a-b1a9-31aa40c318d2",
+            "name" : "Linus Knoop"
+          }
+        },
+        "place" : "Skolegården",
+        "startTime" : "12:00",
+        "title" : "DM i Rollespilskamp",
+        "type" : "2"
+      }
+    }
+  } ],
+  "mapUrl" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/Kort_til_app.png?alt=media&token=db36afef-89c3-4ac3-ab1e-96c16120f2a6"
+}
