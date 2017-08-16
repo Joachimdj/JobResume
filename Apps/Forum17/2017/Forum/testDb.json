@@ -1,0 +1,586 @@
+{
+ 
+    "favorites":{
+        "28c92kd901kds9f9sdf91kd" : {
+            "auction" : {
+                "-Kr1ViKW0EHJYKG4yFXZ" : {
+                    "bid" : 22,
+                    "bidDate" : "20-10-2017 10:22:21"
+                }
+            },
+            "lectures" : {
+                "-KQMUHkfYstV5zWOBV83" : {
+                    "type" : "LIKED"
+                },
+                "-KQrYCX6SAy8JoakbMcR" : {
+                    "type" : "SIGNEDUP"
+                }
+            }
+        }
+    },
+  "auction" : {
+    "-Kr1Uy1Oeq51kIMtyaN0" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer) ",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Uy1Oeq51kIMtyaN0%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=33ab608d-d1c2-41f7-af73-696e7b0a7b98",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Uy1Oeq51kIMtyaN0%2F20668579_10213572955543282_1780752756_n.jpg?alt=media&token=6b5a6335-11d4-4ae9-8597-4ffff202abbd",
+      "name" : "Stars jakkesæt",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1ViKW0EHJYKG4yFXZ" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "15 forskellige sjove hatte, huer og guldkæder. ",
+      "donator" : "Faraos cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ViKW0EHJYKG4yFXZ%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=ce543905-f07b-4482-97e0-3c75ba2d9734",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2017 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ViKW0EHJYKG4yFXZ%2F20668623_10213572955423279_774202772_n.jpg?alt=media&token=36b5f0d0-e556-4816-ad11-a6ff1832e45c",
+      "name" : "Blandede hatte, huer og guldkæder",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1VyTmSupdgWpsoH1f" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "0",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1VyTmSupdgWpsoH1f%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=0ee5132a-630c-4466-b6f0-a3198cfb2426",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1VyTmSupdgWpsoH1f%2F20706900_10213572955383278_620640423_n.jpg?alt=media&token=60518911-f29b-4b9b-b551-fe76969ab2c5",
+      "name" : "Cosplay crafting pakke",
+      "phone" : "",
+      "startBid" : 500,
+      "status" : 1
+    },
+    "-Kr1WALpWmX62cLMmzrz" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos og Rollespilsfabrikken",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1WALpWmX62cLMmzrz%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=e89f1e16-8103-4ad7-ac57-c1dbd36f1a40",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1WALpWmX62cLMmzrz%2F20668315_10213572955263275_1970753474_n.jpg?alt=media&token=d84d9020-7866-4571-8dd1-0522052a15f6",
+      "name" : "Post apo pakke m. Sunfall 2018 billet",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-Kr1X-Gt9dW3X-1HtOyH" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos og Rollespilsfabrikken",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1X-Gt9dW3X-1HtOyH%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=e344398f-f418-4c70-909a-6d2521756dc5",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1X-Gt9dW3X-1HtOyH%2F20706511_10213572955183273_1866632773_n.jpg?alt=media&token=0fdb9b81-33a1-4e7f-a2a2-90157a74e4fd",
+      "name" : "Post apo pakke m. Sunfall 2018 billet",
+      "phone" : "",
+      "startBid" : 500,
+      "status" : 1
+    },
+    "-Kr1XHTSQ4O-WTwf7RKF" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "0",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1XHTSQ4O-WTwf7RKF%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=f9d471f7-5532-433a-bc02-189a0521c353",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2017 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1XHTSQ4O-WTwf7RKF%2F20731104_10213572954863265_1772297072_n.jpg?alt=media&token=3df0b65e-3dad-4be3-b719-3e53f955f6cd",
+      "name" : "Metal rustning",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1XPB2g9KMO41IiBay" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1XPB2g9KMO41IiBay%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=95da406b-739b-43dd-9004-3f92a49b1366",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1XPB2g9KMO41IiBay%2F20668743_10213572954663260_1845798556_n.jpg?alt=media&token=4ad758ca-c9d6-4c39-8f45-d735cb3b1876",
+      "name" : "Cozy viking",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1Xb94BreBAbeLeFLr" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Xb94BreBAbeLeFLr%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=4bb0dcbe-ddf2-43b4-a864-d2c1d88eee07",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2017 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Xb94BreBAbeLeFLr%2F20707534_10213572954223249_1204969582_n.jpg?alt=media&token=44f5bfce-c1c6-4589-a4c0-356318c5088b",
+      "name" : "Sminke pakke ",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1Xt_33F7uZCnSkLdm" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Xt_33F7uZCnSkLdm%2F20707648_10213572953263225_2133893043_n.jpg?alt=media&token=47bbd1ba-c972-48df-b1c8-44a36c27cad4",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1Xt_33F7uZCnSkLdm%2F20707648_10213572953263225_2133893043_n.jpg?alt=media&token=b6b95036-fa25-4772-b865-2f4feea7b7d9",
+      "name" : "Cosplay kostume pakke",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1YRiYkHeSOabIWaPD" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1YRiYkHeSOabIWaPD%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=119ba7b2-dffb-4986-a00e-b1a3c419857a",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1YRiYkHeSOabIWaPD%2F20732864_10213572953183223_1311672726_n.jpg?alt=media&token=1fa18ce6-961a-4cb4-bb0a-751d4891d8c4",
+      "name" : "Bordbrætspils pakke",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1ZONL9ZwQEsflwcUo" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos cigar (Kostumer)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZONL9ZwQEsflwcUo%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=e181a381-a56c-4d53-8978-fb7f02b2b220",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZONL9ZwQEsflwcUo%2F20731395_10213572953143222_1801259976_n.jpg?alt=media&token=2a3d8be7-b9c0-4cb4-8553-eeabe44e0833",
+      "name" : "Pergament pakken",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1ZVT1gVWNinBtv0DS" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Spil)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZVT1gVWNinBtv0DS%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=9e716e8d-c508-4b5e-a7fe-5088105162c4",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZVT1gVWNinBtv0DS%2F20668742_10213572952943217_1646585232_n.jpg?alt=media&token=c9ed43a1-5784-487f-899f-92fe420f09b7",
+      "name" : "Spilpakke",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-Kr1ZfZ0i2HfZe9YW6Nz" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZfZ0i2HfZe9YW6Nz%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=cd46afe4-cb6c-415f-a85a-e72589e625d7",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZfZ0i2HfZe9YW6Nz%2F20731293_10213572952703211_1030577337_n.jpg?alt=media&token=03b4e21e-b7fb-4deb-810a-07636f3e62ee",
+      "name" : "Spilpakke 2",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1ZvwjDxCG6uuUmvmr" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZvwjDxCG6uuUmvmr%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=c10d79db-7271-402b-ac2f-ae28b70af954",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ZvwjDxCG6uuUmvmr%2F20668809_10213572951663185_127159608_n.jpg?alt=media&token=99d7aa50-18e3-4bd7-8f95-70093bff48ce",
+      "name" : "Spilpakke 3",
+      "phone" : "",
+      "startBid" : 400,
+      "status" : 1
+    },
+    "-Kr1_BVtyx3Skpb33D4P" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos Cigar (Lyngby)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1_BVtyx3Skpb33D4P%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=9ac0b39e-26c3-410e-af91-b790e8f72fd2",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1_BVtyx3Skpb33D4P%2F%20.jpg?alt=media&token=503aff3e-74d2-4012-9aef-1ab1bda7b065",
+      "name" : "Skjoldepakke",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-Kr1ajLwpoc5JEzqVzTx" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "2",
+      "desc" : "",
+      "donator" : "Bastard cafe",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ajLwpoc5JEzqVzTx%2FRS1tlGKd.jpeg?alt=media&token=cae8873f-cbaf-48f7-b0da-deabaef567c8",
+      "donatorWebsite" : "http://bastardcafe.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1ajLwpoc5JEzqVzTx%2FRS1tlGKd.jpeg?alt=media&token=90130045-28e8-46ca-8b60-b3109175fde0",
+      "name" : "Bastard cafe medlemskab + 500 kr.",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 1
+    },
+    "-Kr1cgtvEY6lcvJctG0p" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "T-shirts er i XL ",
+      "donator" : "Faraos (Merchandise)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1cgtvEY6lcvJctG0p%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=858fcf78-340b-471b-a056-006be1ce6a58",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1cgtvEY6lcvJctG0p%2F20726972_10213573327752587_59481761_o.jpg?alt=media&token=05964873-49f9-41e3-9130-8b40a9660cde",
+      "name" : "Geek home",
+      "phone" : "",
+      "startBid" : 600,
+      "status" : 1
+    },
+    "-Kr1crBFDRtfv61MlQAa" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Faraos (Merchandise)",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1crBFDRtfv61MlQAa%2F400px-Faraos_Cigarer_logo.jpg?alt=media&token=8ddacae8-4e79-4045-808a-0beae5318314",
+      "donatorWebsite" : "http://faraos.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1crBFDRtfv61MlQAa%2F20746747_10213573327712586_726087326_o.jpg?alt=media&token=832b11b1-2e08-4a73-a37e-799597cc491e",
+      "name" : "Geek home 2 ",
+      "phone" : "",
+      "startBid" : 600,
+      "status" : 1
+    },
+    "-Kr1eBMhej5xnFNrKIAO" : {
+      "bid" : "221",
+      "bidder" : "sdfsdf",
+      "createdAt" : "0",
+      "desc" : "",
+      "donator" : "Crossroads LARP ",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1eBMhej5xnFNrKIAO%2FSk%C3%A6rmbillede%202017-08-08%20kl.%2018.21.36.png?alt=media&token=9d8dd7d1-19f3-40c2-ac43-c6df72b2b249",
+      "donatorWebsite" : "https://www.facebook.com/events/265013267272269/",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1eBMhej5xnFNrKIAO%2FFB_IMG_1501310257819%201-2.jpg?alt=media&token=be418919-60bc-44aa-9f81-f11acaae0ae1",
+      "name" : "En billet til Dark Side of Pluto",
+      "phone" : "23123123",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1hjoVzGmm7kuS0Lvv" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "",
+      "desc" : "",
+      "donator" : "Alea",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1hjoVzGmm7kuS0Lvv%2Ffastaval.png?alt=media&token=91802527-94ad-4b63-88e3-2602f1ca9ce5",
+      "donatorWebsite" : "http://fastaval.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr1hjoVzGmm7kuS0Lvv%2FDSC_9237.jpg?alt=media&token=5990c52d-a144-4412-93ba-40abe6686d46",
+      "name" : "To billetter + kopper til Fastaval 2017",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr1lAy8qWOqXHZgN1TV" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Lahrsteen",
+      "donatorWebsite" : "http://lahrsteen.dk",
+      "endDate" : "15-09-2016 23:59",
+      "name" : "10 flasker Mjød",
+      "phone" : "",
+      "startBid" : 300,
+      "status" : 3
+    },
+    "-Kr4q-s0WRl8i-PgPHN_" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "- Transport ud til scenariet er ikke inklusiv. \n- Datoer for optagelser skal være Jost i hænde halvanden måned før eventet.\n - Flyvningen skal foregå udenfor byer.",
+      "donator" : "Jost L. Hansen",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4q-s0WRl8i-PgPHN_%2F18893307_10154966819606144_2117185552934173347_n.jpg?alt=media&token=46e8e711-10ba-4ca7-9102-2f64ccf7a179",
+      "donatorWebsite" : "https://www.facebook.com/jost.l.hansen?ref=br_rs",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4q-s0WRl8i-PgPHN_%2Fdrones-dji-phantom-4-pro-lowres-7489.jpg?alt=media&token=9c6ff1e1-380b-4e18-9125-203646e55e52",
+      "name" : "To timer drone optagelser",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr4qOB8hPvnveUaQuNP" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "",
+      "desc" : "",
+      "donator" : "Dirtbusters ",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4qOB8hPvnveUaQuNP%2F19113747_1345226632197796_4629245607507860925_n.jpg?alt=media&token=21e26df1-5eb9-49f7-8dc9-4cc867d25af3",
+      "donatorWebsite" : "http://fastaval.dk",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4qOB8hPvnveUaQuNP%2Fdb-illu.jpg?alt=media&token=4614abd8-93a1-4527-a48c-1e75023b17a7",
+      "name" : "Dirtbuster for en dag",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr4t8SGR6Kck6wJVjNt" : {
+      "bid" : "0",
+      "bidder" : "Ingen",
+      "createdAt" : "",
+      "desc" : "Kom med lige nøjagtig din ide og pingvinstuen sørger for optagelser, klipning og sparring.\nDin sketch vil blive vist som en del af deres shows på Fastaval 2018.",
+      "donator" : "Pingvinstuen",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4t8SGR6Kck6wJVjNt%2F17883639_2059635697597287_5909004138194293361_n.jpg?alt=media&token=02d878d0-f289-44f7-981a-88e148228237",
+      "donatorWebsite" : "https://www.facebook.com/pingvinstuen/",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4t8SGR6Kck6wJVjNt%2Fpingvinstue.png?alt=media&token=af03b491-0561-4f6a-9d17-c66e6d235a65",
+      "name" : "En sketch i Pingvinstuen",
+      "phone" : "",
+      "startBid" : 200,
+      "status" : 1
+    },
+    "-Kr4wsGUS4EK1WnqaqDL" : {
+      "bid" : "150",
+      "bidder" : "Ingen",
+      "createdAt" : "1",
+      "desc" : "",
+      "donator" : "Jens Kirk Rasmussen",
+      "donatorImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4wsGUS4EK1WnqaqDL%2F18278251_790707404422289_1314662965086496978_o.jpg?alt=media&token=7248bbb8-afbd-4c11-9dd9-9de0ee5a679f",
+      "donatorWebsite" : "https://www.facebook.com/jens.rasmussen.1690",
+      "endDate" : "15-09-2016 23:59",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/auction%2F-Kr4wsGUS4EK1WnqaqDL%2F20771532_10213578848410600_671679670_o.jpg?alt=media&token=48889c0b-fe8f-4b34-afce-c25929f23414",
+      "name" : "25 kilo magic kort",
+      "phone" : "",
+      "startBid" : 150,
+      "status" : 1
+    }
+  },
+  "eventDates" : [ {
+    "date" : "15-09-2017",
+    "programItems" : {
+      "-KQLl4bnn6pdXYylzWIb" : {
+        "-KQLl4bsHNpjiIlf7cqi" : {
+          "image" : "",
+          "name" : "Forum"
+        },
+        "description" : "Vi starter selvfølgelig Forum17 med at lære hinanden at kende.  Det gør vi rollespillere som bekendt bedst ved leg og ballade, og hvis vi er heldige bliver der også tid til lidt snak.  Åbningsworkshoppen er en halv times rysten sammen til at møde hinanden inden Forum for alvor går i gang.",
+        "endTime" : "21:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "TBA",
+        "startTime" : "20:30",
+        "title" : "Åbningsworkshop",
+        "type" : "1"
+      },
+      "-KQLl4bnn6pdXYylzWIddb" : {
+        "-KQLl4bsHNpjiIlf7cqi" : {
+        "image" : "",
+        "name" : "Forum"
+        },
+       "description" : "Vi starter selvfølgelig Forum17 med at lære hinanden at kende.  Det gør vi rollespillere som bekendt bedst ved leg og ballade, og hvis vi er heldige bliver der også tid til lidt snak.  Åbningsworkshoppen er en halv times rysten sammen til at møde hinanden inden Forum for alvor går i gang.",
+       "endTime" : "21:00",
+       "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+       "place" : "TBA",
+       "startTime" : "20:30",
+       "title" : "Åbningsworkshop",
+        "type" : "1"
+      },
+      "-KQMd91wLqwcJJ2ETNen" : {
+        "description" : "",
+        "endTime" : "20:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "lecturer" : {
+          "-KQLl4bsHNpjiIlf7cqi" : {
+            "image" : "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-1/p160x160/12507457_10208223521650778_1585987786031607789_n.jpg?oh=d0355ff648d648ff321b615df0298bd3&oe=5A2F3CCA",
+            "name" : "Joachim Dittman"
+          }
+        },
+        "place" : "Sportshallen",
+        "startTime" : "18:00",
+        "title" : "Aftensmad",
+        "type" : "2"
+      },
+      "-KQrI3tACHSnS77GUvK8" : {
+        "description" : "Atter et år er gået, og en masse scenarier er blevet afholdt. Hvad  gjorde dem særlige? Hvad var fedt? Og er der draget nogle erfaringer,  som kan komme vores hobby til gode?Hør en række arrangører og  spillere fortælle om deres oplevelser ved dette års scenarier. Der vil  være særligt fokus på, hvordan netop dette scenarie adskilte sig fra  andre scenarier, og hvordan det kan være inspiration til fremtidige  projekter.  Først vil der være en kort gennemgang af de praktiske  omstændigheder og derefter vil fokus være på, hvilke erfaringer, der  blev gjort.Skriv til daniel@spilrollespil.dk hvis du har noget, du gerne vil præsentere.",
+        "endTime" : "22:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Fællessalen",
+        "startTime" : "21:30",
+        "title" : "Scenarie året der gik",
+        "type" : "4"
+      },
+      "-KQrIvHScRuQq7sYq9w5" : {
+        "description" : "",
+        "endTime" : "02:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Baren",
+        "startTime" : "23:58",
+        "title" : "Hygge og øl",
+        "type" : "6"
+      },
+      "-KQw6n8f5G1bu1DYMMVk" : {
+        "description" : "",
+        "endTime" : "20:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Fællessalen",
+        "startTime" : "20:00",
+        "title" : "Fælles åbning",
+        "type" : "2"
+      }
+    }
+  }, {
+    "date" : "16-09-2017",
+    "programItems" : {
+      "-KQMGl0b0rAM0Yb_eXG5" : {
+        "description" : "Vær med til at skaffe penge til Bifrostpuljen og få en masse fedt loot med hjem i samme omgang.",
+        "endTime" : "23:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQMGl0b0rAM0Yb_eXG5%2Fforum.jpg?alt=media&token=ec34b488-fa2b-4405-a3ac-f776fc20dc21",
+        "place" : "Fællessalen",
+        "startTime" : "21:00",
+        "title" : "Auktionen",
+        "type" : "2"
+      },
+      "-KQMdJq1wQvMjQhRWmPe" : {
+        "description" : "",
+        "endTime" : "10:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "place" : "Sportshallen",
+        "startTime" : "08:00",
+        "title" : "Morgenmad",
+        "type" : "2"
+      },
+      "-KQMdOFuKJLUZRQiIbXP" : {
+        "description" : "",
+        "endTime" : "14:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "place" : "Sportshallen",
+        "startTime" : "13:00",
+        "title" : "Frokost",
+        "type" : "2"
+      },
+      "-KQMdSlT8rjU9XO9_XUL" : {
+        "description" : "",
+        "endTime" : "20:30",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "place" : "Fællessalen",
+        "startTime" : "19:30",
+        "title" : "Aftensmad",
+        "type" : "2"
+      },
+      "-KQrWvcOl4YQIr0jBuZf" : {
+        "description" : "",
+        "endTime" : "04:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F1%2FprogramItems%2F-KQrWvcOl4YQIr0jBuZf%2Fparty-venue-wicklow.jpg?alt=media&token=9c5d7ab7-d02a-4874-a178-efb32c12c29f",
+        "place" : "Baren",
+        "startTime" : "23:30",
+        "title" : "Fest og hygge",
+        "type" : "6"
+      }
+    }
+  }, {
+    "date" : "17-09-2017",
+    "programItems" : {
+      "-KQMUHkfYstV5zWOBV83" : {
+        "description" : "Kom og hør om, hvilke scenarier, du skal glæde dig til i løbet af det næste års tid – Og hvorfor, du skal glæde dig!  Alle er velkomne til at komme og lave en fem-minutters præsentation af deres scenarie og forhåbentlig få overbevist en masse deltage om, at de skal komme og deltage.  Skriv til daniel@spilrollespil.dk, hvis dit scenarie skal præsenteres på Forum16",
+        "endTime" : "19:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F2%2FprogramItems%2F-KQMUHkfYstV5zWOBV83%2Fcoming-soon-1568623_960_720.jpg?alt=media&token=f9934366-c3bc-449b-812d-cc2b1e12d550",
+        "place" : "Fællessalen",
+        "startTime" : "11:00",
+        "title" : "Scenarieåret der kommer",
+        "type" : "4"
+      },
+      "-KQMdwntO8Ann_SIS_q-" : {
+        "description" : "",
+        "endTime" : "10:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "place" : "Hallen",
+        "startTime" : "09:00",
+        "title" : "Morgenmad",
+        "type" : "1"
+      },
+      "-KQrYCX6SAy8JoakbMcR" : {
+        "description" : "",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/buffet.jpg?alt=media&token=02ff772c-46e7-49ac-8f3e-a0c06a11a9bb",
+        "place" : "Sportshallen",
+        "startTime" : "12:00",
+        "title" : "Frokost",
+        "type" : "2"
+      },
+      "-KQrYXwliL0y-6xLT1P9" : {
+        "description" : "",
+        "endTime" : "14:45",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Fællessalen",
+        "startTime" : "13:00",
+        "title" : "Oprydning",
+        "type" : "2"
+      },
+      "-KQrYeZ0C5kECOVxxu-Z" : {
+        "description" : "",
+        "endTime" : "15:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Fællessalen",
+        "startTime" : "14:45",
+        "title" : "Fælles afslutning",
+        "type" : "1"
+      },
+      "-KQrYnYnrJu4KBKJ9LPv" : {
+        "description" : "",
+        "endTime" : "15:05",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Bussen",
+        "startTime" : "15:00",
+        "title" : "Bus til København kører",
+        "type" : "2"
+      },
+      "-KRJi1mSCbKErIHkEVq1" : {
+        "description" : "Igen i år vil det famøse DM i Rollespilskamp blive afholdt på Forum. Så hvis du har lyst til at kæmpe om trofæet og kunne bryste dig af at være Danmarks bedste rollespilskæmper, så er det nu, du skal finde to af dine venner (eller fjender) og stille et hold.\n\nVåben udleveres på Forum16, men medbring gerne dit bedste kampkostume og et heppekor.\n\nTilmeldingen finder sted i Infoen på selve Forum16, så hvis du ikke har nogen at stille et hold med nu, så har du hele Forum16 til at finde to nye venner at kæmpe side om side med.",
+        "endTime" : "13:00",
+        "headerImage" : "https://firebasestorage.googleapis.com/v0/b/forumapp-4d3f7.appspot.com/o/eventDates%2F0%2FprogramItems%2F-KQLl4bnn6pdXYylzWIb%2Fwelcome.jpg?alt=media&token=519ac68d-1975-48f4-ba59-1c670d55ef51",
+        "place" : "Skolegården",
+        "startTime" : "12:00",
+        "title" : "DM i Rollespilskamp",
+        "type" : "2"
+      }
+    }
+  } ],
+  "mapUrl" : "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAALFAAAAJGYyMDdhNzdlLTZjZTctNDM4ZC1hMGFiLTc0MmFjYjA2ZjE4OA.png"
+}
