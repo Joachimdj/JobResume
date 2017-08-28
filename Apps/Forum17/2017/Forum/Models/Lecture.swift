@@ -16,17 +16,22 @@ class Lecture: Mappable {
  
     
     static var lectureContainer = [Int:[Lecture]]()
+    
+    
     var id: String = ""
     var name: String? 
     var endTime:String?
     var startTime:String?
+    var startDate:String = ""
     var place: String?
     var type:String?
     var headerImage:String?
     var lecturer:[String:[String:String]]?
-    var desc:String?
+    var desc:String? 
     var favorit = false
+    var signedUp = false
     var day = 0
+    var status: Int?
     
     required init?(map: Map) {
     }
@@ -36,11 +41,13 @@ class Lecture: Mappable {
         name    <- map["title"]
         endTime <- map["endTime"]
         startTime <- map["startTime"]
+        startDate <- map["startDate"]
         place <- map["place"]
         type <- map["type"]
         headerImage <- map["headerImage"]
         lecturer <- map["lecturer"]
         desc <- map["description"]
+        status <- map["status"]
     }
 }
     

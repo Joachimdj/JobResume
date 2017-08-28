@@ -6,8 +6,7 @@
 //  Copyright © 2017 Joachim Dittman. All rights reserved.
 //
 
-import XCTest
-
+import XCTest 
 @testable import Forum
 
 class MapControllerTests: XCTestCase {
@@ -26,7 +25,7 @@ class MapControllerTests: XCTestCase {
     
     // Load a image file from Mockup.
     func testLoadMap() {
-        XCTAssertEqual(mc.loadMap(), UIImage(named:"cirkel_3roundBurst"))
+        XCTAssertEqual(mc.loadMap(), UIImage(named:"venueMap"))
     }
     
     func testPerformanceExample() {

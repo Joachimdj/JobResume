@@ -17,7 +17,7 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
     
     var lectureContainer = [Lecture]()
     var auctionContainer = [AuctionItem]()
-    let typeImagesArray = ["","cirkel_workshop","cirkel_social","Cirkel_debat","cirkel_firehose","cirkel_3roundBurst","cirkel_talk"]
+    let typeImagesArray = ["cirkel_workshop","cirkel_social","Cirkel_debat","cirkel_firehose","cirkel_3roundBurst","cirkel_talk"]
     var dayNames = ["Fredag","Lørdag","Søndag"]
     
     let items = ["Program","Auktion"]
@@ -27,10 +27,12 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
     var line = UIView(frame:CGRect(x:5,y:55, width:UIScreen.main.bounds.width - 10,height:1))
     var titleLabel = UILabel(frame:CGRect(x:10,y:27, width:UIScreen.main.bounds.width - 20,height:20))
     
+    var blurEffectView = UIVisualEffectView()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-     
+      
+        
         titleLabel.text = "Din oversigt".uppercased()
         titleLabel.font = UIFont (name: "HelveticaNeue-Bold", size: 25)
         titleLabel.textAlignment = .center
@@ -39,6 +41,13 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
         line.backgroundColor = .black
         self.view.addSubview(line)
         
+        
+        let bImage = UIButton()
+        bImage.frame = CGRect(x: -10,y: 2,width: 70,height: 70)
+        bImage.setImage(UIImage(named: "ic_exit_to_app")!.withRenderingMode(UIImageRenderingMode.alwaysTemplate), for: UIControlState())
+        bImage.tintColor = UIColor.black
+        bImage.addTarget(self, action: #selector(logOut(sender:)), for: UIControlEvents.touchUpInside)
+        self.view.addSubview(bImage)
         
         daySC = UISegmentedControl(items: items)
         daySC.selectedSegmentIndex = 0
@@ -57,6 +66,13 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
         tableView.rowHeight = 75
         tableView.separatorColor = .clear
         self.view.addSubview(tableView)
+        
+        let blurEffect = UIBlurEffect(style: UIBlurEffectStyle.light)
+        blurEffectView = UIVisualEffectView(effect: blurEffect)
+        blurEffectView.frame = view.bounds
+        blurEffectView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
+        blurEffectView.alpha = 0.0
+        self.tableView.addSubview(blurEffectView)
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -64,17 +80,29 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
     }
  
     override func viewWillAppear(_ animated: Bool) {
+        print("FavoriteListView")
         if(type == 0)
         {   tableView.rowHeight = 75
-            reloadLectureFavorite()
+            if(User.userContainer.count > 0)
+            {
+                
+                reloadLectureFavorite()
+            }
+            
         
         }
         else
         {   tableView.rowHeight = 110
-            reloadAuctionFavorite()
-           
+            if(User.userContainer.count > 0)
+            {
+             
+                reloadAuctionFavorite()
+            }
           
         }
+        UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 1, initialSpringVelocity: 1, options: .curveEaseInOut, animations: {
+            self.blurEffectView.alpha = 0.0
+        }, completion: nil)
     }
     
     func changeColor(sender: UISegmentedControl) {
@@ -169,7 +197,7 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
         {
         let cell:LectureCell = tableView.dequeueReusableCell(withIdentifier: "LectureCell", for: indexPath) as! LectureCell
         cell.favorite.setImage(UIImage(named:"heartDark"), for: UIControlState())
-        cell.favorite.addTarget(self, action: #selector(removeFavorite(_:)), for: UIControlEvents.touchUpInside)
+        cell.favorite.addTarget(self, action: #selector(updateFavorite(_:)), for: UIControlEvents.touchUpInside)
       
         let item = lectureContainer[indexPath.section]
         cell.typeImage.image = UIImage(named: typeImagesArray[Int(item.type!)!])
@@ -184,14 +212,14 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
         {
             let cell:AuctionListCell = tableView.dequeueReusableCell(withIdentifier: "AuctionListCell", for: indexPath) as! AuctionListCell
             cell.favorite.setImage(UIImage(named:"heartDark"), for: UIControlState())
-            cell.favorite.addTarget(self, action: #selector(removeFavorite(_:)), for: UIControlEvents.touchUpInside)
+            cell.favorite.addTarget(self, action: #selector(updateFavorite(_:)), for: UIControlEvents.touchUpInside)
             
             let item = auctionContainer[indexPath.row]
             if(item.image !=  nil)
             {
                 if((URL(string:item.image!)) != nil)
                 {
-                    cell.profileImageView.kf.setImage(with:URL(string:item.image!)!, placeholder: nil, options: nil, progressBlock: nil, completionHandler: { (image, error, CacheType, imageURL) in  })
+                    cell.profileImageView.kf.setImage(with:URL(string:item.image!)!, placeholder: UIImage(named:"noPic"), options: nil, progressBlock: nil, completionHandler: { (image, error, CacheType, imageURL) in  })
                 }
             }
             cell.titleLabel.text = item.name?.uppercased()
@@ -207,6 +235,9 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
       
+        UIView.animate(withDuration: 0.5, delay: 0.0, usingSpringWithDamping: 1, initialSpringVelocity: 1, options: .curveEaseInOut, animations: {
+            self.blurEffectView.alpha = 1.0
+        }, completion: nil)
         if(type == 0)
         {
         let vc = LectureItemView()
@@ -224,25 +255,35 @@ class FavoritesListView: UIViewController,UITableViewDelegate,UITableViewDataSou
         }
     }
     
-    func removeFavorite(_ sender:AnyObject)
+ 
+    func updateFavorite(_ sender:AnyObject)
     {
         
         if(type == 0)
         {
         let item = lectureContainer[sender.tag]
-        print("removeFavorite")
+        print("updateFavorite")
         _ = uc.removeFromFavoritList(type: "lecture", lecture: item, auctionItem: nil)
         reloadLectureFavorite()
         }
         else
         {
             let item = auctionContainer[sender.tag]
-            print("removeFavorite")
+            print("updateFavorite")
             _ = uc.removeFromFavoritList(type: "auction", lecture: nil, auctionItem: item)
             reloadAuctionFavorite()
         }
         
     }
-
+    
+    func logOut(sender:AnyObject)
+    {
+        loadedFirst = false
+        loggedIn = false
+        self.tabBarController?.selectedIndex = 1
+        let vc = LoginView()
+        vc.logOut = true
+        self.present(vc,animated: true,completion: nil)
+    }
     
 }

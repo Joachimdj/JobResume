@@ -28,14 +28,35 @@ class AuctionControllerTests: XCTestCase {
     
     //Loads auction items from mockup
     func testLoadAuctionItems() {
-        XCTAssertEqual(ac.loadAuctionItems().count,25)
+        ac.loadAuctionItems { (result) in
+            XCTAssertEqual(result.count,25)
+        }
     }
     
     //User makes an offer on an auction item.
     func testMakeAnOffer() {
-        XCTAssertTrue(ac.makeAnOffer())
+        ac.loadAuctionItems { (result) in
+           XCTAssertTrue(self.ac.makeAnOffer(auction: result[0], bid: 20.0, row: 0))
+        }
+    }
+    
+    //Test update auctionItem
+    func testUpdate()
+    {  ac.loadAuctionItems { (result) in
+        self.ac.update(auction: result[0], row: 0, completion: { (resultBool) in
+          XCTAssertTrue(resultBool)
+        })
+        }
+        
+
     }
   
+    
+    //Test get auctionsItems subscriptions.
+    func testGetAuctionItemSubscription()
+    {
+        XCTAssertTrue(true)
+    }
     func testPerformanceExample() {
         // This is an example of a performance test case.
         self.measure {

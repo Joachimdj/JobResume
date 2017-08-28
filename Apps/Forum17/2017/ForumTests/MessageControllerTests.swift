@@ -7,12 +7,12 @@
 //
 
 import XCTest
-
 @testable import Forum
+
 
 class MessageControllerTests: XCTestCase {
     
-    let mc = MessageConroller()
+    let mc = MessageController()
     
     override func setUp() {
         super.setUp()
@@ -26,14 +26,27 @@ class MessageControllerTests: XCTestCase {
    
     //Tests if a lecture admin can sent a push message to participants.
     func testSendMessage() {
-        XCTAssertTrue(mc.sendMessage())
+      XCTAssertTrue( mc.sendMessage(id: "", type: "", topic: "topic", message: ""))
     }
     
     //Runs in background of app and checks if theire are any upcoming lectures or auction items.
     func testUpcomingLectures() {
-         XCTAssertTrue(mc.upcomingLectures())
+       mc.upcomingLectures(reciver: "", completion: { (result) in
+             XCTAssertFalse(result)
+        })
+        
+       
     }
-     
+    
+    func testSubscripeToTopic()
+    {
+        XCTAssertTrue(mc.subscripeToTopic(topic: "forum"))
+    }
+    
+    func testUnSubscripeToTopic()
+    {
+        XCTAssertTrue(mc.unsubscripeToTopic(topic: "forum"))
+    }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.

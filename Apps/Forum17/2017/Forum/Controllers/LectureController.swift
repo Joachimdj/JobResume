@@ -15,11 +15,12 @@ class LectureController
     var n = Network()
 
     //Loads lectures from db
-    func loadLectures() -> [Int:[Lecture]]
+    func loadLectures(test:Bool,completion:@escaping (_ result:[Int:[Lecture]]) -> Void)
     {
+        
         var lectures =  [Lecture]()
         Lecture.lectureContainer.removeAll()
-        n.getLectures { (result) in
+        n.getLectures(test: test) { (result) in
             for days in result
             {
                 lectures.removeAll()
@@ -27,26 +28,56 @@ class LectureController
                 {
                     let lecture = Lecture(JSONString:JSON(i.1.dictionaryValue).description)!
                     lecture.id = i.0
+                    lecture.day = Int(days.0)!
+                    lecture.startDate = days.1["date"].stringValue
                     lectures.append(lecture)
                     
                 }
                 lectures = lectures.sorted{$0.0.startTime! < $0.1.startTime!}
                 Lecture.lectureContainer.updateValue(lectures, forKey: Int(days.0)!)
-                print("Day:\(Int(days.0)!)")
+                
             }
-                lectures.removeAll() 
-        } 
-        return Lecture.lectureContainer
+                lectures.removeAll()
+            completion(Lecture.lectureContainer)
+        }
+ 
         
     }
 
  
     
-    //User makes an offer on an lecture item.
-    func signup(lecture:String) -> Bool
+
+    
+    //Updates dictonary and updates DB
+    func update(lecture:Lecture, row:Int,day:Int, completion:(_ result:Bool) -> Void)
+    { 
+        
+         if(lecture.id != "")
+         {
+        if(day != lecture.day)
+        {
+            Lecture.lectureContainer[day]?.remove(at: row)
+            Lecture.lectureContainer[lecture.day]?.append(lecture)
+         
+        }
+        else
+        {
+            Lecture.lectureContainer[day]?[row] = lecture
+        }
+        }
+        else
+        {
+            Lecture.lectureContainer[day]?.append(lecture)
+            
+           
+        }
+       completion(true)
+        
+    }
+    
+    func lecturesFromLocalMemory(day:Int, completion:(_ result:[Lecture]) -> Void)
     {
-        return true
+        completion(Lecture.lectureContainer[day]!.sorted{$0.0.startTime! < $0.1.startTime!})
     }
      
-    
 }

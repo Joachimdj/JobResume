@@ -26,14 +26,41 @@ class LectureControllerTests: XCTestCase {
     
     //Loads auction items from mockup
     func testLoadLectures() {
-      
-        XCTAssertEqual(lc.loadLectures().count, 3)
+        lc.loadLectures(test: true) { (result) in
+            XCTAssertEqual(result.count,3)
+        } 
+    }
+ 
+    
+    //Test update and create orders.
+    func testUpdate()
+    {
+        lc.loadLectures(test: true) { (result) in
+            print(result.count)
+            self.lc.update(lecture: (result[0]?[0])!, row: 0, day: 0) { (result) in
+                 XCTAssertTrue(result)
+            }
+        }
+        
+     //
     }
     
-    //User makes an offer on an auction item.
-    func testSignup() {
-        
-         XCTAssertTrue(lc.signup(lecture: ""))
+    //LoadLectures from local memory.
+    func testLectureFromLocalMemory()
+    {
+        lc.loadLectures(test: true) { (result) in
+            self.lc.lecturesFromLocalMemory(day: 0) { (result) in
+                XCTAssertEqual(result.count, 5)
+            }
+        }
+     
+     //   XCTAssertTrue(false)
     }
    
+    //Get lecture subscriptions 
+    func testGetLectureSubscription()
+    {
+     //   XCTAssertTrue(false)
+    }
+    
 }

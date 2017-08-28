@@ -17,7 +17,7 @@ class AuctionItem: Mappable {
     
     var id: String?
     var name: String?
- //   var bidders: [String:Double]?
+    var bidders: [String:[String:Any]]?
     var desc: String?
     var donator: String?
     var donatorImage: String?
@@ -37,7 +37,7 @@ class AuctionItem: Mappable {
     func mapping(map: Map) {
         id <- map["id"]
         name    <- map["name"]
-       // bidders        <- map["bidders"]
+        bidders        <- map["bidders"]
         desc      <- map["desc"]
         donator   <- map["donator"]
         donatorImage  <- map["donatorImage"]

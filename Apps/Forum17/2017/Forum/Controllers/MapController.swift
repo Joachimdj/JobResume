@@ -12,9 +12,12 @@ class MapController
 {
 
     //Loads map image file from database
-    func loadMap() -> UIImage
+    func loadMap(completion:@escaping (_ result:String) -> Void)
     {
-        
-        return UIImage(named:"cirkel_3roundBurst")!
+        Network().getMapURL(test: false) { (result) in
+          
+       
+        completion(result.stringValue)
+        }
     }
 }

@@ -15,10 +15,12 @@ class User: Mappable {
     static var userContainer = [User]() 
     static var favoriteLectures = [Int:[Lecture]]()
     static var favoriteAuctionItems = [AuctionItem]()
+    
     var id: String?
     var name: String?
     var email: String?
     var picture: String!
+    var admin: Int?
     
     required init?(map: Map) {
         
@@ -29,6 +31,7 @@ class User: Mappable {
         name    <- map["name"]
         email        <- map["email"]
         picture      <- map["picture"]
+        admin       <- map["admin"]
     }
     
 }

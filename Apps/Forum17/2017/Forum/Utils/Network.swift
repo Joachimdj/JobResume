@@ -8,10 +8,17 @@
 
 import Foundation
 import SwiftyJSON
+import Firebase
+import FirebaseDatabase
+import FirebaseAuth
 
 class Network
 {
-  
+    
+    var ref: DatabaseReference!
+    
+   
+    
     func loadFromFile(completion:(_ result:JSON) -> Void)
     {
         if let path = Bundle.main.path(forResource: "testDb", ofType: "json") {
@@ -29,76 +36,134 @@ class Network
         } else {
             print("Invalid filename/path.")
         }
-         
+    
+    }
+  
+    func getMapURL(test:Bool,completion:@escaping (_ result:JSON) -> Void)
+    {
+        if(test == false)
+        {
+            ref = Database.database().reference()
+            
+            ref.child("mapUrl").observe(.value, with: { (snap) in
+                
+                completion(JSON(snap.value!))
+            }) { (error) in
+                print(error)
+            }
+        }
+        else
+        {
+            loadFromFile { (result) in
+                completion(result["eventDates"])
+            }
+        }
     }
     
-    func getLectures(completion:(_ result:JSON) -> Void)
+    
+    func getLectures(test:Bool,completion:@escaping (_ result:JSON) -> Void)
     {
-        loadFromFile { (result) in 
+        if(test == false)
+        {
+            ref = Database.database().reference()
+            
+            ref.child("eventDates").observe(.value, with: { (snap) in
+               
+                completion(JSON(snap.value!))
+            }) { (error) in
+                print(error)
+            }
+        }
+        else
+        {
+        loadFromFile { (result) in
             completion(result["eventDates"])
         }
-        
-    }
-    
-    
-    func getAuctionItems(completion:(_ result:JSON) -> Void)
-    {
-        loadFromFile { (result) in
-            completion(result["auction"])
-        }
-    }
-    
-    func getFavorites(type:String,user:String,completion:@escaping (_ result:JSON) -> Void)
-    {
-        loadFromFile { (result) in 
-            completion(result["favorites"][user][type])
         }
     }
     
     
-    func setfavoriteCount(user:String,lecture:String,auctionItem:String,completion:(_ result:JSON) -> Void)
+    func getAuctionItems(test:Bool,completion:@escaping (_ result:JSON) -> Void)
     {
-        
-        completion(JSON(""))
+        if(test == false)
+        {
+            ref = Database.database().reference()
+            
+            ref.child("auction").observe(.value, with: { (snap) in
+              
+                completion(JSON(snap.value!))
+            }) { (error) in
+                print(error)
+            }
+        }
+        else
+        {
+            loadFromFile { (result) in
+                completion(result["auction"])
+            }
+        }
     }
     
-    func setfavoriteCount(user:String,lecture:String,auctionItem:String,completion:(_ result:Bool) -> Void)
+    func getUserFavorites(type:String,user:String,test:Bool,completion:@escaping (_ result:JSON) -> Void)
     {
-        
+        if(test == false)
+        {
+            ref = Database.database().reference()
+            
+            ref.child("users/\(user)/\(type)").observe(.value, with: { (snap) in
+                completion(JSON(snap.value!))
+            }) { (error) in
+                print(error)
+            }
+        }
+        else
+        {
+            loadFromFile { (result) in
+                completion(result["users"][user][type])
+            }
+        }
+    }
+  
+ 
+    func addFavorite(user:String,id:String,type:String,test:Bool, completion:(_ result:Bool) -> Void)
+    {
+        ref = Database.database().reference()
+        ref.child("users/\(user)/\(type)/\(id)").updateChildValues(["type" :"LIKED"])
+        completion(true)
+    }
+    
+    func removeFavorite(user:String,id:String,type:String,test:Bool, completion:(_ result:Bool) -> Void)
+    {
+        ref = Database.database().reference()
+        ref.child("users/\(user)/\(type)/\(id)").removeValue()
         completion(true)
     }
     
     
-    func updateAuctionItemOffer(user:String,auctionItem:String,offer:Double, completion:(_ result:Bool) -> Void)
-    {
-        
+    func updateUser(userData:[String:Any], id:String, test:Bool,completion:@escaping (_ result:Bool) -> Void)
+    {   ref = Database.database().reference()
+        print("updateUSer \(id) \(userData)")
+        ref.child("users/\(id)/info").updateChildValues(userData)
         completion(true)
     }
     
-    func updateAuctionItem(user:String,auctionItem:String, completion:(_ result:Bool) -> Void)
+    func checkUserStatus(test:Bool,completion:@escaping (_ result:JSON) -> Void)
     {
-        
-        completion(true)
+        if(Auth.auth().currentUser != nil)
+        {
+            ref = Database.database().reference() 
+            ref.child("users/\(Auth.auth().currentUser!.uid)/info").observe(.value, with: { (snap) in
+ 
+                completion(JSON(snap.value!))
+            }) { (error) in
+                print(error)
+            }
+        }
+        else
+        {
+            completion(JSON(""))
+        }
     }
-    
-    func updateLecture(user:String,auctionItem:String, completion:(_ result:Bool) -> Void)
-    {
-        
-        completion(true)
-    }
-    
-    func userLogin(token:String,providor:String, completion:(_ result:JSON) -> Void)
-    {
-        
-         completion(JSON(""))
-    }
-    
-    func getMap(completion:(_ result:JSON) -> Void)
-    {
-        
-         completion(JSON(""))
-    }
-    
     
     
 }

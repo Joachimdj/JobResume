@@ -14,7 +14,7 @@ class AuctionListCell: UITableViewCell {
     let profileImageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 130, height: 100))
     let favorite = UIButton(frame: CGRect(x: UIScreen.main.bounds.width - 65, y: 0, width: 50 , height: 100))
     let startBid = UILabel(frame: CGRect(x:135,y: 50,width: UIScreen.main.bounds.width-160,height: 25))
-    let titleLabel = UITextView(frame: CGRect(x: 135,y: 0,width:UIScreen.main.bounds.width-145,height: 50))
+    let titleLabel = UITextView(frame: CGRect(x: 135,y: 0,width:UIScreen.main.bounds.width-155,height: 50))
     let donator = UILabel(frame: CGRect(x:135,y: 75,width:UIScreen.main.bounds.width-160,height: 25))
     
     
